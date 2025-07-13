@@ -1957,31 +1957,6 @@
             photos: {
                 mainCover: 'https://static.tildacdn.com/tild3335-3834-4637-b061-636530333061/or1.png',
                 isPhotoOrVideo: 'video',
-                photoOrVideo: ['https://static.tildacdn.com/tild3336-6139-4336-a631-396235643864/or2.png', '', ""],
-                pagePhotos: {
-                    1: ['https://static.tildacdn.com/tild3836-3862-4430-b835-363235373537/1.png', 'small'],
-                    2: ['https://static.tildacdn.com/tild6335-3266-4366-b863-316637646639/2.png', 'small'],
-                    3: ['https://static.tildacdn.com/tild3563-3936-4335-b964-613438376233/3.png', 'small'],
-                    4: ['https://static.tildacdn.com/tild3731-6364-4433-b336-386666643939/4.png', 'small'],
-                    5: ['https://static.tildacdn.com/tild6466-3862-4462-a362-366435623334/5.png', 'small'],
-                    6: ['https://static.tildacdn.com/tild3234-6639-4930-a361-346434316562/6.png', 'small'],
-                    7: ['https://static.tildacdn.com/tild3035-3836-4730-b466-396533373037/7.png', 'small'],
-                    8: ['https://static.tildacdn.com/tild6430-6232-4361-b937-333137323566/8.png', 'small'],
-                    9: ['https://static.tildacdn.com/tild3639-6462-4661-b132-666161663265/9.png', 'small'],
-                }
-            }
-        },
-        81: {
-            name: 'Александра & Максим',
-            organizator: 'Анастасия',
-            date: '08/07/23',
-            team: '16 человек',
-            guests: '37 гостей',
-            time: '6 месяцев',
-            type: 'свадьба',
-            photos: {
-                mainCover: 'https://static.tildacdn.com/tild3335-3834-4637-b061-636530333061/or1.png',
-                isPhotoOrVideo: 'video',
                 photoOrVideo: ['https://static.tildacdn.com/tild3336-6139-4336-a631-396235643864/or2.png', 'Вackstage (0:46)', "https://github.com/mrkrolik/videos-lulu/raw/refs/heads/main/AQMd9nVCtrQYZc51OW3Llg91q1S6e_m6JgRGo_gqIawJLs9ZvxJvtdpk7XspF6dCZB3GtiX7ub.mp4"],
                 pagePhotos: {
                     1: ['https://static.tildacdn.com/tild3836-3862-4430-b835-363235373537/1.png', 'small'],
@@ -1996,7 +1971,7 @@
                 }
             }
         },
-        82: {
+        81: {
             name: 'Алина & Кирилл',
             organizator: 'Анастасия',
             date: '25/09/24',
@@ -2021,13 +1996,13 @@
                 }
             }
         },
-        83: {
-            name: 'Алина & Кирилл',
+        82: {
+            name: 'Карина & Алексей',
             organizator: 'Анастасия',
-            date: '25/09/24',
-            team: '23 человека',
-            guests: '54 гостя',
-            time: '4 месяца',
+            date: '06/09/24',
+            team: '24 человека',
+            guests: '38 гостей',
+            time: '3 месяца',
             type: 'свадьба',
             photos: {
                 mainCover: 'https://static.tildacdn.com/tild3263-6434-4663-a533-653536663038/or1.png',
@@ -2044,7 +2019,7 @@
                 }
             }
         },
-        84: {
+        83: {
             name: 'Ксения & Михаил',
             organizator: 'Анастасия',
             date: '05/10/23',
@@ -2067,7 +2042,7 @@
                 }
             }
         },
-        85: {
+        84: {
             name: 'День рождения Ева',
             organizator: 'Анастасия',
             date: '15/05/25',
@@ -2092,7 +2067,7 @@
                 }
             }
         },
-        86: {
+        85: {
             name: 'День рождения Владимир',
             organizator: 'Анастасия',
             date: '02/2025',
@@ -2115,7 +2090,7 @@
                 }
             }
         },
-        87: {
+        86: {
             name: 'День рождения Федя 3 года',
             organizator: 'Анастасия',
             date: '23/09/23',
@@ -2140,7 +2115,7 @@
                 }
             }
         },
-        88: {
+        87: {
             name: 'Выписка из роддома',
             organizator: 'Анастасия',
             date: '27/10/24',
@@ -2163,7 +2138,7 @@
                 }
             }
         },
-        89: {
+        88: {
             name: 'Сюрприз для супруги',
             organizator: 'Анастасия',
             date: '18/12/24',
