@@ -2148,8 +2148,8 @@
             type: 'частный',
             photos: {
                 mainCover: 'https://static.tildacdn.com/tild6232-3731-4936-b831-623035313337/or1.png',
-                isPhotoOrVideo: 'photo',
-                photoOrVideo: ['https://static.tildacdn.com/tild3665-3364-4164-b462-663538643930/or2.png', '', ""],
+                isPhotoOrVideo: 'video',
+                photoOrVideo: ['https://static.tildacdn.com/tild3665-3364-4164-b462-663538643930/or2.png', 'Вackstage (0:35)', "https://github.com/mrkrolik/videos-lulu/raw/refs/heads/main/2025-06-29%2022.00.04.mp4"],
                 pagePhotos: 'nophotos',
             }
         },
