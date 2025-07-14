@@ -2473,5 +2473,376 @@
                 }
             }
         },
+        101: {
+            name: 'День рождения Катя',
+            organizator: 'Лусина',
+            date: '06/11/21',
+            team: '22 человека',
+            guests: '20 гостей',
+            time: '3 месяца',
+            type: 'частный',
+            photos: {
+                mainCover: 'https://static.tildacdn.com/tild6639-6134-4633-a138-376163633935/or1.png',
+                isPhotoOrVideo: 'photo',
+                photoOrVideo: ['https://static.tildacdn.com/tild3864-6139-4633-b634-353531373665/or2.png', '', ""],
+                pagePhotos: {
+                    1: ['https://static.tildacdn.com/tild6163-3331-4764-b631-313531663762/1.png', 'small'],
+                    2: ['https://static.tildacdn.com/tild3931-3563-4365-b833-656534653664/2.png', 'small'],
+                    3: ['https://static.tildacdn.com/tild6464-3663-4337-a365-646438366536/3.png', 'small'],
+                    4: ['https://static.tildacdn.com/tild3939-3461-4330-a235-396462613636/4.png', 'small'],
+                    5: ['https://static.tildacdn.com/tild6462-3537-4538-a366-353635346230/5.png', 'small'],
+                    6: ['https://static.tildacdn.com/tild6631-3835-4031-b730-356433643262/6.png', 'small'],
+                    7: ['https://static.tildacdn.com/tild3730-3565-4335-a436-616361306330/7.png', 'small'],
+                    8: ['https://static.tildacdn.com/tild3133-6135-4563-a466-333362616163/8.png', 'small'],
+                    9: ['https://static.tildacdn.com/tild3265-6136-4165-b137-663934383437/9.png', 'small'],
+                }
+            }
+        },
+        102: {
+            name: 'Полина & Иван',
+            organizator: 'Лусина',
+            date: '13/08/21',
+            team: '29 человек',
+            guests: '47 гостей',
+            time: '7 месяцев',
+            type: 'свадьба',
+            photos: {
+                mainCover: 'https://static.tildacdn.com/tild3662-3663-4864-a436-653665353234/or1.png',
+                isPhotoOrVideo: 'photo',
+                photoOrVideo: ['https://static.tildacdn.com/tild3465-6561-4962-b061-353864653639/or2.png', '', ""],
+                pagePhotos: {
+                    1: ['https://static.tildacdn.com/tild3236-6332-4565-b963-643036623637/1.png', 'small'],
+                    2: ['https://static.tildacdn.com/tild6437-3066-4435-b562-373134653630/2.png', 'small'],
+                    3: ['https://static.tildacdn.com/tild6237-3131-4166-b464-313165656336/3.png', 'small'],
+                    4: ['https://static.tildacdn.com/tild3335-6333-4562-b634-346462626439/4.png', 'small'],
+                    5: ['https://static.tildacdn.com/tild3363-6537-4464-b539-333533393066/5.png', 'small'],
+                    6: ['https://static.tildacdn.com/tild6435-3638-4432-b637-663136333936/6.png', 'small'],
+                    7: ['https://static.tildacdn.com/tild3539-3131-4466-a662-613931346137/7.png', 'small'],
+                    8: ['https://static.tildacdn.com/tild3733-3165-4462-a636-613831373065/8.png', 'small'],
+                    9: ['https://static.tildacdn.com/tild3564-6163-4137-a638-396134356638/9.png', 'small'],
+                }
+            }
+        },
+        103: {
+            name: 'Диана & Виктор',
+            organizator: 'Лусина',
+            date: '09/07/21',
+            team: '48 человек',
+            guests: '72 гостя',
+            time: '4 месяца',
+            type: 'свадьба',
+            photos: {
+                mainCover: 'https://static.tildacdn.com/tild3163-6162-4137-b866-393463616133/or1.png',
+                isPhotoOrVideo: 'photo',
+                photoOrVideo: ['https://static.tildacdn.com/tild3837-6666-4563-b761-613436353966/or2.png', '', ""],
+                pagePhotos: {
+                    1: ['https://static.tildacdn.com/tild3864-3331-4862-a137-343530643566/1.png', 'small'],
+                    2: ['https://static.tildacdn.com/tild3861-6339-4636-a536-323866643934/2.png', 'small'],
+                    3: ['https://static.tildacdn.com/tild6238-3061-4739-b762-323162393336/3.png', 'small'],
+                    4: ['https://static.tildacdn.com/tild6363-6662-4664-a534-623930356237/4.png', 'small'],
+                    5: ['https://static.tildacdn.com/tild3434-6532-4236-b065-666437633465/5.png', 'small'],
+                    6: ['https://static.tildacdn.com/tild6361-3235-4133-b535-343637333065/6.png', 'small'],
+                    7: ['https://static.tildacdn.com/tild3864-6530-4161-b632-343032616339/7.png', 'small'],
+                    8: ['https://static.tildacdn.com/tild6337-6261-4463-a531-663931376431/8.png', 'small'],
+                    9: ['https://static.tildacdn.com/tild3532-6235-4835-a236-316561313434/9.png', 'small'],
+                }
+            }
+        },
+        104: {
+            name: 'Дарья & Кирилл',
+            organizator: 'Лусина',
+            date: '26/06/21',
+            team: '42 человека',
+            guests: '67 гостей',
+            time: '5 месяцев',
+            type: 'свадьба',
+            photos: {
+                mainCover: 'https://static.tildacdn.com/tild6132-6332-4961-b464-616661376164/or1.png',
+                isPhotoOrVideo: 'photo',
+                photoOrVideo: ['https://static.tildacdn.com/tild6336-3730-4262-b039-303134343038/or2.png', '', ""],
+                pagePhotos: {
+                    1: ['https://static.tildacdn.com/tild3439-6539-4966-b536-376465333434/1.png', 'small'],
+                    2: ['https://static.tildacdn.com/tild6534-6664-4230-b161-653166383033/2.png', 'small'],
+                    3: ['https://static.tildacdn.com/tild3032-6533-4963-b264-343731373837/3.png', 'small'],
+                    4: ['https://static.tildacdn.com/tild6139-6663-4134-a366-663330643665/4.png', 'small'],
+                    5: ['https://static.tildacdn.com/tild6430-6637-4365-a536-393739646361/5.png', 'small'],
+                    6: ['https://static.tildacdn.com/tild3966-3764-4433-b534-363164646233/6.png', 'small'],
+                    7: ['https://static.tildacdn.com/tild3862-3437-4634-a639-323962663764/7.png', 'small'],
+                    8: ['https://static.tildacdn.com/tild6435-3432-4231-a337-363963323932/8.png', 'small'],
+                    9: ['https://static.tildacdn.com/tild3132-3930-4536-b231-326430643666/9.png', 'small'],
+                }
+            }
+        },
+        105: {
+            name: 'Дарья & Кирилл',
+            organizator: 'Лусина',
+            date: '26/06/21',
+            team: '42 человека',
+            guests: '67 гостей',
+            time: '5 месяцев',
+            type: 'свадьба',
+            photos: {
+                mainCover: 'https://static.tildacdn.com/tild6132-6332-4961-b464-616661376164/or1.png',
+                isPhotoOrVideo: 'photo',
+                photoOrVideo: ['https://static.tildacdn.com/tild6336-3730-4262-b039-303134343038/or2.png', '', ""],
+                pagePhotos: {
+                    1: ['https://static.tildacdn.com/tild3439-6539-4966-b536-376465333434/1.png', 'small'],
+                    2: ['https://static.tildacdn.com/tild6534-6664-4230-b161-653166383033/2.png', 'small'],
+                    3: ['https://static.tildacdn.com/tild3032-6533-4963-b264-343731373837/3.png', 'small'],
+                    4: ['https://static.tildacdn.com/tild6139-6663-4134-a366-663330643665/4.png', 'small'],
+                    5: ['https://static.tildacdn.com/tild6430-6637-4365-a536-393739646361/5.png', 'small'],
+                    6: ['https://static.tildacdn.com/tild3966-3764-4433-b534-363164646233/6.png', 'small'],
+                    7: ['https://static.tildacdn.com/tild3862-3437-4634-a639-323962663764/7.png', 'small'],
+                    8: ['https://static.tildacdn.com/tild6435-3432-4231-a337-363963323932/8.png', 'small'],
+                    9: ['https://static.tildacdn.com/tild3132-3930-4536-b231-326430643666/9.png', 'small'],
+                }
+            }
+        },
+        106: {
+            name: 'Рената & Егор',
+            organizator: 'Лусина',
+            date: '25/06/21',
+            team: '52 человека',
+            guests: '128 гостей',
+            time: '5 месяцев',
+            type: 'свадьба',
+            photos: {
+                mainCover: 'https://static.tildacdn.com/tild3838-6632-4437-b436-363239313465/or1.png',
+                isPhotoOrVideo: 'photo',
+                photoOrVideo: ['https://static.tildacdn.com/tild3865-3264-4633-a664-333738653431/or2.png', '', ""],
+                pagePhotos: {
+                    1: ['https://static.tildacdn.com/tild6562-6136-4965-b930-313661303437/1.png', 'small'],
+                    2: ['https://static.tildacdn.com/tild3935-3034-4437-a530-636164336435/2.png', 'small'],
+                    3: ['https://static.tildacdn.com/tild6264-6564-4061-b938-303734316564/3.png', 'small'],
+                    4: ['https://static.tildacdn.com/tild3664-3138-4161-a164-636163633861/4.png', 'big'],
+                    5: ['https://static.tildacdn.com/tild3563-3066-4765-b933-366135643564/5.png', 'small'],
+                    6: ['https://static.tildacdn.com/tild3236-3735-4262-b139-353939306263/6.png', 'small'],
+                    7: ['https://static.tildacdn.com/tild3136-3430-4430-b238-366165666136/7.png', 'small'],
+                    8: ['https://static.tildacdn.com/tild3432-3263-4562-a238-386661323763/8.png', 'small'],
+                }
+            }
+        },
+        107: {
+            name: 'День рождения Ксюша',
+            organizator: 'Лусина',
+            date: '03/06/21',
+            team: '53 человека',
+            guests: '38 гостей',
+            time: '2 месяца',
+            type: 'частный',
+            photos: {
+                mainCover: 'https://static.tildacdn.com/tild3939-3461-4135-a564-396137353266/or1.png',
+                isPhotoOrVideo: 'photo',
+                photoOrVideo: ['https://static.tildacdn.com/tild6332-6365-4066-b437-333439336465/or2.png', '', ""],
+                pagePhotos: {
+                    1: ['https://static.tildacdn.com/tild6532-6136-4237-b938-333537383836/1.png', 'small'],
+                    2: ['https://static.tildacdn.com/tild3130-6663-4661-a261-666232333062/2.png', 'small'],
+                    3: ['https://static.tildacdn.com/tild6234-3963-4163-b739-626565353665/3.png', 'small'],
+                    4: ['https://static.tildacdn.com/tild6164-3863-4434-a136-396339363330/4.png', 'small'],
+                    5: ['https://static.tildacdn.com/tild3364-3764-4132-b131-653831326131/5.png', 'small'],
+                    6: ['https://static.tildacdn.com/tild6536-6439-4833-b937-333363346461/6.png', 'small'],
+                    7: ['https://static.tildacdn.com/tild3636-6534-4666-b438-666366646236/7.png', 'small'],
+                    8: ['https://static.tildacdn.com/tild6135-3761-4738-a536-393762346663/8.png', 'small'],
+                    9: ['https://static.tildacdn.com/tild3664-6265-4233-a136-326337313461/9.png', 'small'],
+                }
+            }
+        },
+        108: {
+            name: 'Private party',
+            organizator: 'Лусина',
+            date: '30/03/21',
+            team: '74 человека',
+            guests: '108 гостей',
+            time: '1,5 месяца',
+            type: 'частный',
+            photos: {
+                mainCover: 'https://static.tildacdn.com/tild3335-3862-4631-b237-396366383230/or1.png',
+                isPhotoOrVideo: 'photo',
+                photoOrVideo: ['https://static.tildacdn.com/tild3332-3962-4239-b639-663665383666/or2.png', '', ""],
+                pagePhotos: {
+                    1: ['https://static.tildacdn.com/tild3433-3337-4030-b162-373336663930/1.png', 'small'],
+                    2: ['https://static.tildacdn.com/tild6263-3962-4534-b937-633865666662/2.png', 'small'],
+                    3: ['https://static.tildacdn.com/tild6132-6363-4231-a566-346331633462/3.png', 'small'],
+                    4: ['https://static.tildacdn.com/tild3535-3865-4165-a562-306137363334/4.png', 'small'],
+                    5: ['https://static.tildacdn.com/tild6337-3130-4466-b636-343163373862/5.png', 'small'],
+                    6: ['https://static.tildacdn.com/tild6533-6366-4438-b933-623666353236/6.png', 'small'],
+                    7: ['https://static.tildacdn.com/tild3437-6166-4130-b130-336137313538/7.png', 'small'],
+                    8: ['https://static.tildacdn.com/tild3136-3062-4936-b563-613330663937/8.png', 'small'],
+                    9: ['https://static.tildacdn.com/tild3038-3837-4665-a331-356538316131/9.png', 'small'],
+                }
+            }
+        },
+        109: {
+            name: 'Алёна & Данил',
+            organizator: 'Лусина',
+            date: '12/02/21',
+            team: '36 человек',
+            guests: '44 гостя',
+            time: '4 месяца',
+            type: 'свадьба',
+            photos: {
+                mainCover: 'https://static.tildacdn.com/tild6333-6463-4365-b362-626633613737/or1.png',
+                isPhotoOrVideo: 'photo',
+                photoOrVideo: ['https://static.tildacdn.com/tild3533-6436-4434-b337-663163626366/or2.png', '', ""],
+                pagePhotos: {
+                    1: ['https://static.tildacdn.com/tild6634-3638-4461-b735-303431643933/1.png', 'small'],
+                    2: ['https://static.tildacdn.com/tild6230-3661-4532-b232-633833613039/2.png', 'small'],
+                    3: ['https://static.tildacdn.com/tild3635-3132-4434-a537-353033383535/3.png', 'small'],
+                    4: ['https://static.tildacdn.com/tild3634-3233-4630-b431-383261343666/4.png', 'small'],
+                    5: ['https://static.tildacdn.com/tild3538-3062-4830-a463-343966663761/5.png', 'big'],
+                    6: ['https://static.tildacdn.com/tild6263-6266-4532-b266-393731303933/6.png', 'small'],
+                    7: ['https://static.tildacdn.com/tild3262-6430-4166-b031-616463363335/7.png', 'small'],
+                    8: ['https://static.tildacdn.com/tild6663-3538-4061-a265-356463366561/8.png', 'small'],
+                }
+            }
+        },
+        110: {
+            name: 'Мария & Максим',
+            organizator: 'Лусина',
+            date: '03/10/20',
+            team: '38 человек',
+            guests: '51 гость',
+            time: '2,5 месяца',
+            type: 'свадьба',
+            photos: {
+                mainCover: 'https://static.tildacdn.com/tild3331-6631-4462-b164-353432363934/or1.png',
+                isPhotoOrVideo: 'photo',
+                photoOrVideo: ['https://static.tildacdn.com/tild3163-6664-4434-b832-646531336531/or2.png', '', ""],
+                pagePhotos: {
+                    1: ['https://static.tildacdn.com/tild3033-6361-4730-b332-633236643133/1.png', 'small'],
+                    2: ['https://static.tildacdn.com/tild6432-3336-4938-b466-366436353865/2.png', 'small'],
+                    3: ['https://static.tildacdn.com/tild3531-6465-4436-b564-343830323539/3.png', 'small'],
+                    4: ['https://static.tildacdn.com/tild3632-3461-4830-b139-313138383561/4.png', 'small'],
+                    5: ['https://static.tildacdn.com/tild3738-3735-4266-a463-313132636638/5.png', 'small'],
+                    6: ['https://static.tildacdn.com/tild3638-6563-4233-a335-646537363838/6.png', 'small'],
+                    7: ['https://static.tildacdn.com/tild6264-6661-4262-b966-363238656365/7.png', 'small'],
+                    8: ['https://static.tildacdn.com/tild3562-6431-4966-b939-633062313362/8.png', 'small'],
+                    9: ['https://static.tildacdn.com/tild3237-6562-4936-b336-613966383833/9.png', 'small'],
+                }
+            }
+        },
+        111: {
+            name: 'Екатерина & Виктор',
+            organizator: 'Лусина',
+            date: '02/10/20',
+            team: '86 человек',
+            guests: '37 гостей',
+            time: '10 месяцев',
+            type: 'свадьба',
+            photos: {
+                mainCover: 'https://static.tildacdn.com/tild3465-3261-4865-a361-396266303638/or1.png',
+                isPhotoOrVideo: 'photo',
+                photoOrVideo: ['https://static.tildacdn.com/tild3663-3837-4136-a230-303565643234/or2.png', '', ""],
+                pagePhotos: {
+                    1: ['https://static.tildacdn.com/tild3739-6161-4336-b537-363238333734/1.png', 'small'],
+                    2: ['https://static.tildacdn.com/tild3164-3430-4165-b938-623535313139/2.png', 'small'],
+                    3: ['https://static.tildacdn.com/tild3462-6438-4135-b961-616339383635/3.png', 'small'],
+                    4: ['https://static.tildacdn.com/tild6337-3237-4330-b662-646263653733/4.png', 'small'],
+                    5: ['https://static.tildacdn.com/tild6333-6661-4166-b935-353936393535/5.png', 'small'],
+                    6: ['https://static.tildacdn.com/tild6335-6536-4437-a437-626436353863/6.png', 'small'],
+                    7: ['https://static.tildacdn.com/tild3863-3764-4737-b562-353565363631/7.png', 'small'],
+                    8: ['https://static.tildacdn.com/tild6463-6437-4538-b962-643531373936/8.png', 'small'],
+                    9: ['https://static.tildacdn.com/tild3935-3435-4063-a531-323239333965/9.png', 'small'],
+                }
+            }
+        },
+        112: {
+            name: 'Юлия & Роман',
+            organizator: 'Лусина',
+            date: '19/08/20',
+            team: '78 человек',
+            guests: '126 гостей',
+            time: '3 месяца',
+            type: 'свадьба',
+            photos: {
+                mainCover: 'https://static.tildacdn.com/tild3563-3533-4732-b338-633865383135/or1.png',
+                isPhotoOrVideo: 'photo',
+                photoOrVideo: ['https://static.tildacdn.com/tild3833-3630-4363-b339-633338343031/or2.png', '', ""],
+                pagePhotos: {
+                    1: ['https://static.tildacdn.com/tild3430-3664-4665-b862-376462633530/1.png', 'small'],
+                    2: ['https://static.tildacdn.com/tild3736-3638-4837-a235-333361386664/2.png', 'small'],
+                    3: ['https://static.tildacdn.com/tild3132-6533-4366-a365-373163636334/3.png', 'small'],
+                    4: ['https://static.tildacdn.com/tild3064-3264-4265-a135-333861323432/4.png', 'small'],
+                    5: ['https://static.tildacdn.com/tild6137-3764-4437-a263-396336323533/5.png', 'small'],
+                    6: ['https://static.tildacdn.com/tild3330-6339-4439-a661-633232323234/6.png', 'small'],
+                    7: ['https://static.tildacdn.com/tild3333-6334-4138-a238-616266633431/7.png', 'small'],
+                    8: ['https://static.tildacdn.com/tild6437-6133-4230-b736-303035646261/8.png', 'small'],
+                    9: ['https://static.tildacdn.com/tild6635-6432-4039-a166-336264393462/9.png', 'small'],
+                }
+            }
+        },
+        113: {
+            name: 'Алина & Антон',
+            organizator: 'Лусина',
+            date: '18/07/20',
+            team: '36 человек',
+            guests: '43 гостя',
+            time: '5 месяцев',
+            type: 'свадьба',
+            photos: {
+                mainCover: 'https://static.tildacdn.com/tild3139-3735-4262-b937-353865643861/or1.png',
+                isPhotoOrVideo: 'photo',
+                photoOrVideo: ['https://static.tildacdn.com/tild3736-6238-4836-a164-303336393131/or2.png', '', ""],
+                pagePhotos: {
+                    1: ['https://static.tildacdn.com/tild6462-6231-4537-b065-653439316533/1.png', 'small'],
+                    2: ['https://static.tildacdn.com/tild3836-3566-4432-a530-633532393262/2.png', 'small'],
+                    3: ['https://static.tildacdn.com/tild3436-6636-4435-b335-313861323434/3.png', 'small'],
+                    4: ['https://static.tildacdn.com/tild6239-3061-4638-b531-623261336562/4.png', 'big'],
+                    5: ['https://static.tildacdn.com/tild3936-3137-4561-b233-356635313936/5.png', 'small'],
+                    6: ['https://static.tildacdn.com/tild6333-6138-4365-b234-316130656536/6.png', 'small'],
+                    7: ['https://static.tildacdn.com/tild3863-3863-4337-b539-313938653939/7.png', 'small'],
+                    8: ['https://static.tildacdn.com/tild6438-3164-4664-b935-626662346238/8.png', 'small'],
+                }
+            }
+        },
+        114: {
+            name: 'Кристина & Роман',
+            organizator: 'Лусина',
+            date: '01/06/20',
+            team: '32 человека',
+            guests: '68 гостей',
+            time: '8 месяцев',
+            type: 'свадьба',
+            photos: {
+                mainCover: 'https://static.tildacdn.com/tild3635-6232-4665-b236-653331656532/or1.png',
+                isPhotoOrVideo: 'photo',
+                photoOrVideo: ['https://static.tildacdn.com/tild3634-6638-4166-a435-626335316637/or2.png', '', ""],
+                pagePhotos: {
+                    1: ['https://static.tildacdn.com/tild3538-6235-4561-b737-653338623464/1.png', 'small'],
+                    2: ['https://static.tildacdn.com/tild6635-6336-4766-b535-646334643263/2.png', 'small'],
+                    3: ['https://static.tildacdn.com/tild3630-3464-4231-b165-313738616362/3.png', 'small'],
+                    4: ['https://static.tildacdn.com/tild3031-3032-4561-b363-653766336534/4.png', 'small'],
+                    5: ['https://static.tildacdn.com/tild3133-6531-4463-b134-383433333033/5.png', 'small'],
+                    6: ['https://static.tildacdn.com/tild3661-6566-4436-a530-613436313265/6.png', 'small'],
+                    7: ['https://static.tildacdn.com/tild3936-3737-4065-b831-373763653238/7.png', 'small'],
+                    8: ['https://static.tildacdn.com/tild3835-3736-4664-a335-373036316566/8.png', 'small'],
+                    9: ['https://static.tildacdn.com/tild3234-3036-4139-b734-313833663536/9.png', 'small'],
+                }
+            }
+        },
+        115: {
+            name: 'Валерия & Игорь',
+            organizator: 'Лусина',
+            date: '03/08/20',
+            team: '39 человек',
+            guests: '52 гостя',
+            time: '7 месяцев',
+            type: 'свадьба',
+            photos: {
+                mainCover: 'https://static.tildacdn.com/tild6333-6234-4430-a338-383865346437/or1.png',
+                isPhotoOrVideo: 'photo',
+                photoOrVideo: ['https://static.tildacdn.com/tild6234-3739-4830-b038-363138313132/or2.png', '', ""],
+                pagePhotos: {
+                    1: ['https://static.tildacdn.com/tild6532-3263-4663-a466-633361663538/1.png', 'small'],
+                    2: ['https://static.tildacdn.com/tild3933-3165-4638-a562-633762653564/2.png', 'small'],
+                    3: ['https://static.tildacdn.com/tild3134-3731-4933-b634-653236323539/3.png', 'small'],
+                    4: ['https://static.tildacdn.com/tild3630-3333-4438-a138-343431313864/4.png', 'small'],
+                    5: ['https://static.tildacdn.com/tild3066-3530-4261-b665-643731633438/5.png', 'big'],
+                    6: ['https://static.tildacdn.com/tild3263-3861-4131-b465-393934643038/6.png', 'small'],
+                    7: ['https://static.tildacdn.com/tild3664-6231-4431-b539-336238353738/7.png', 'small'],
+                    8: ['https://static.tildacdn.com/tild6438-3165-4139-a639-366139656539/8.png', 'small'],
+                }
+            }
+        },
         
     };
