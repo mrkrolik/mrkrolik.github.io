@@ -2020,7 +2020,7 @@
             }
         },
         83: {
-            name: 'Ксения & Михаил',
+            name: 'Свадьба для двоих',
             organizator: 'Анастасия',
             date: '05/10/23',
             team: '6 человек',
@@ -2028,17 +2028,13 @@
             time: '1 месяц',
             type: 'свадьба',
             photos: {
-                mainCover: 'https://static.tildacdn.com/tild3265-3634-4239-a337-376430303232/or1.png',
+                mainCover: 'https://static.tildacdn.com/tild6339-6336-4538-a364-616438316161/or1.png',
                 isPhotoOrVideo: 'photo',
-                photoOrVideo: ['https://static.tildacdn.com/tild3562-3937-4433-a465-613661323964/or2.png', '', ""],
+                photoOrVideo: ['https://static.tildacdn.com/tild3039-3630-4830-b562-633732363664/or2.png', '', ""],
                 pagePhotos: {
-                    1: ['https://static.tildacdn.com/tild3533-6362-4832-b839-616530366266/1.png', 'small'],
-                    2: ['https://static.tildacdn.com/tild3432-6366-4637-b532-353630346532/2.png', 'small'],
-                    3: ['https://static.tildacdn.com/tild3738-3639-4433-a637-653534343837/3.png', 'small'],
-                    4: ['https://static.tildacdn.com/tild6262-6661-4864-a332-303736303538/4.png', 'big'],
-                    5: ['https://static.tildacdn.com/tild3836-3163-4138-b562-626335336331/5.png', 'small'],
-                    6: ['https://static.tildacdn.com/tild3232-3762-4532-a136-666534356461/6.png', 'small'],
-                    7: ['https://static.tildacdn.com/tild3733-6637-4437-b939-356163366661/7.png', 'big'],
+                    1: ['https://static.tildacdn.com/tild3466-6630-4534-b338-643330633835/1.png', 'small'],
+                    2: ['https://static.tildacdn.com/tild3062-3535-4935-b935-373966323537/2.png', 'small'],
+                    3: ['https://static.tildacdn.com/tild3134-3934-4666-b032-636233373335/3.png', 'small'],
                 }
             }
         },
@@ -2851,25 +2847,6 @@
             }
         },
         116: {
-            name: 'Свадьба для двоих',
-            organizator: 'Анастасия',
-            date: '05/10/23',
-            team: '6 человек',
-            guests: '38 гостей',
-            time: '1 месяц',
-            type: 'свадьба',
-            photos: {
-                mainCover: 'https://static.tildacdn.com/tild6339-6336-4538-a364-616438316161/or1.png',
-                isPhotoOrVideo: 'photo',
-                photoOrVideo: ['https://static.tildacdn.com/tild3039-3630-4830-b562-633732363664/or2.png', '', ""],
-                pagePhotos: {
-                    1: ['https://static.tildacdn.com/tild3466-6630-4534-b338-643330633835/1.png', 'small'],
-                    2: ['https://static.tildacdn.com/tild3062-3535-4935-b935-373966323537/2.png', 'small'],
-                    3: ['https://static.tildacdn.com/tild3134-3934-4666-b032-636233373335/3.png', 'small'],
-                }
-            }
-        },
-        117: {
             name: 'Алиса & Владимир',
             organizator: 'Злата',
             date: '25/05/25',
@@ -2893,7 +2870,7 @@
                 }
             }
         },
-        118: {
+        117: {
             name: 'Александра <br>& Андрей',
             organizator: 'Злата',
             date: '06/06/25',
@@ -2917,7 +2894,7 @@
                 }
             }
         },
-        119: {
+        118: {
             name: 'Ольга & Дмитрий',
             organizator: 'Влада',
             date: '27/05/25',
