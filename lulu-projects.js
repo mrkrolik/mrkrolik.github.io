@@ -2844,5 +2844,24 @@
                 }
             }
         },
+        116: {
+            name: 'Свадьба для двоих',
+            organizator: 'Анастасия',
+            date: '05/10/23',
+            team: '6 человек',
+            guests: '38 гостей',
+            time: '1 месяц',
+            type: 'свадьба',
+            photos: {
+                mainCover: 'https://static.tildacdn.com/tild6339-6336-4538-a364-616438316161/or1.png',
+                isPhotoOrVideo: 'photo',
+                photoOrVideo: ['https://static.tildacdn.com/tild3039-3630-4830-b562-633732363664/or2.png', '', ""],
+                pagePhotos: {
+                    1: ['https://static.tildacdn.com/tild3466-6630-4534-b338-643330633835/1.png', 'small'],
+                    2: ['https://static.tildacdn.com/tild3062-3535-4935-b935-373966323537/2.png', 'small'],
+                    3: ['https://static.tildacdn.com/tild3134-3934-4666-b032-636233373335/3.png', 'small'],
+                }
+            }
+        },
         
     };
