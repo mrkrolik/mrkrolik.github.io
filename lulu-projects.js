@@ -256,13 +256,13 @@
             time: '5,5 месяцев',
             type: 'корпоратив',
             photos: {
-                mainCover: 'https://static.tildacdn.com/tild3164-3361-4739-b137-656163323835/or1.png',
+                mainCover: 'https://static.tildacdn.com/tild3235-3132-4564-b432-316333636339/or1.png',
                 isPhotoOrVideo: 'photo',
                 photoOrVideo: ['https://static.tildacdn.com/tild3764-6562-4833-a436-636337393538/or2.png', '', ''],
                 pagePhotos: {
                     1: ['https://static.tildacdn.com/tild3166-3535-4132-a638-326439346363/1.png', 'big'],
                     2: ['https://static.tildacdn.com/tild3732-3339-4566-a439-356539373861/2.png', 'small'],
-                    3: ['https://static.tildacdn.com/tild3137-3565-4233-b431-303563333333/3.png', 'small'],
+                    3: ['https://static.tildacdn.com/tild3231-3638-4531-a630-646262356330/3.png', 'small'],
                     4: ['https://static.tildacdn.com/tild6433-3362-4530-b631-663261393061/4.png', 'big'],
                     5: ['https://static.tildacdn.com/tild6233-6638-4332-a531-313238303736/5.png', 'small'],
                     6: ['https://static.tildacdn.com/tild6438-6135-4834-b065-653966376662/6.png', 'small'],
@@ -329,19 +329,19 @@
             time: '3 месяца',
             type: 'бренд',
             photos: {
-                mainCover: 'https://static.tildacdn.com/tild6530-3732-4232-a439-363639636238/or1.png',
+                mainCover: 'https://static.tildacdn.com/tild3635-3962-4636-a164-383964393764/or1.png',
                 isPhotoOrVideo: 'video',
                 photoOrVideo: ['https://static.tildacdn.com/tild6435-6533-4633-b565-636564306464/or2.png', 'Вackstage (0:10)', 'https://github.com/mrkrolik/videos-lulu/raw/refs/heads/main/IMG_2664.MOV'],
                 pagePhotos: {
-                    1: ['https://static.tildacdn.com/tild3237-6539-4531-a634-313464653461/1.png', 'small'],
-                    2: ['https://static.tildacdn.com/tild3662-3231-4632-b430-633866316464/2.png', 'small'],
-                    3: ['https://static.tildacdn.com/tild6133-3963-4536-b836-626536626435/3.png', 'small'],
-                    4: ['https://static.tildacdn.com/tild6230-3962-4263-a238-633161303237/4.png', 'small'],
-                    5: ['https://static.tildacdn.com/tild6136-3331-4935-b562-346366356136/5.png', 'small'],
-                    6: ['https://static.tildacdn.com/tild3365-3431-4962-b361-356330353665/6.png', 'small'],
-                    7: ['https://static.tildacdn.com/tild6432-3965-4635-a638-313637653438/7.png', 'small'],
-                    8: ['https://static.tildacdn.com/tild6131-6463-4038-b334-373337356139/8.png', 'small'],
-                    9: ['https://static.tildacdn.com/tild3638-3866-4066-a365-346333326266/9.png', 'small'],
+                    1: ['https://static.tildacdn.com/tild3463-6330-4664-b466-626330356438/1.png', 'small'],
+                    2: ['https://static.tildacdn.com/tild6365-6431-4235-a361-653366313566/2.png', 'small'],
+                    3: ['https://static.tildacdn.com/tild3164-3466-4937-b231-353438333835/3.png', 'small'],
+                    4: ['https://static.tildacdn.com/tild6261-6634-4264-b534-346332326239/4.png', 'small'],
+                    5: ['https://static.tildacdn.com/tild3835-3833-4338-b136-346130646634/5.png', 'small'],
+                    6: ['https://static.tildacdn.com/tild3234-3630-4361-b762-373836643265/6.png', 'small'],
+                    7: ['https://static.tildacdn.com/tild3639-3530-4837-b437-326135643461/7.png', 'small'],
+                    8: ['https://static.tildacdn.com/tild6562-6264-4036-b766-393564646236/8.png', 'small'],
+                    9: ['https://static.tildacdn.com/tild3766-6535-4735-b065-313730653064/9.png', 'small'],
                 }
             }
         },
@@ -478,19 +478,19 @@
             time: '1 неделя',
             type: 'частный',
             photos: {
-                mainCover: 'https://static.tildacdn.com/tild3834-3531-4738-a564-366531383538/or1.png',
+                mainCover: 'https://static.tildacdn.com/tild3138-6231-4265-b865-383637613839/or1.png',
                 isPhotoOrVideo: 'photo',
                 photoOrVideo: ['https://static.tildacdn.com/tild6366-3664-4465-b430-393965376563/or2.png', '', ''],
                 pagePhotos: {
-                    1: ['https://static.tildacdn.com/tild3231-3331-4661-a430-393334373830/1.png', 'small'],
-                    2: ['https://static.tildacdn.com/tild6330-6439-4337-b132-633233363238/2.png', 'small'],
-                    3: ['https://static.tildacdn.com/tild6133-3464-4731-b464-396536613233/3.png', 'small'],
-                    4: ['https://static.tildacdn.com/tild3131-3733-4265-a264-666334643139/4.png', 'small'],
-                    5: ['https://static.tildacdn.com/tild3461-3565-4266-b266-643134306330/5.png', 'small'],
-                    6: ['https://static.tildacdn.com/tild3265-3365-4735-a334-376533653964/6.png', 'small'],
-                    7: ['https://static.tildacdn.com/tild3234-6533-4034-a361-326537623433/7.png', 'small'],
-                    8: ['https://static.tildacdn.com/tild3639-6438-4332-a638-396432373566/8.png', 'small'],
-                    9: ['https://static.tildacdn.com/tild3064-6331-4431-b539-306539613766/9.png', 'small'],
+                    1: ['https://static.tildacdn.com/tild6234-6361-4130-a264-386239656134/1.png', 'small'],
+                    2: ['https://static.tildacdn.com/tild3538-3566-4961-a164-343935393531/2.png', 'small'],
+                    3: ['https://static.tildacdn.com/tild6434-3234-4064-a562-646537616465/3.png', 'small'],
+                    4: ['https://static.tildacdn.com/tild6238-6236-4537-b738-376537303766/4.png', 'small'],
+                    5: ['https://static.tildacdn.com/tild3861-3635-4065-b564-303064373566/5.png', 'small'],
+                    6: ['https://static.tildacdn.com/tild3933-3363-4261-b038-613734333832/6.png', 'small'],
+                    7: ['https://static.tildacdn.com/tild3833-6237-4530-a230-643133633236/7.png', 'small'],
+                    8: ['https://static.tildacdn.com/tild3138-6538-4630-a163-396436633638/8.png', 'small'],
+                    9: ['https://static.tildacdn.com/tild3935-3239-4636-b765-663739333036/9.png', 'small'],
                 }
             }
         },
@@ -1140,19 +1140,19 @@
             time: '8 месяцев',
             type: 'частный',
             photos: {
-                mainCover: 'https://static.tildacdn.com/tild3934-3063-4339-b932-376365313462/or1.png',
+                mainCover: 'https://static.tildacdn.com/tild6335-6537-4436-a334-613665393337/or1.png',
                 isPhotoOrVideo: 'photo',
                 photoOrVideo: ['https://static.tildacdn.com/tild6262-6337-4637-b632-393963356436/or2.png', '', ''],
                 pagePhotos: {
-                    1: ['https://static.tildacdn.com/tild6530-6462-4238-a130-336131623663/1.png', 'small'],
-                    2: ['https://static.tildacdn.com/tild6661-3132-4338-b365-656434303734/2.png', 'small'],
-                    3: ['https://static.tildacdn.com/tild3064-6263-4439-b063-626664353962/3.png', 'small'],
-                    4: ['https://static.tildacdn.com/tild3432-3633-4165-b635-353961306662/4.png', 'small'],
-                    5: ['https://static.tildacdn.com/tild3262-3932-4131-b932-366561313030/5.png', 'small'],
-                    6: ['https://static.tildacdn.com/tild3864-3935-4436-b933-393238326333/6.png', 'small'],
-                    7: ['https://static.tildacdn.com/tild6532-3361-4437-b934-666561373235/7.png', 'small'],
-                    8: ['https://static.tildacdn.com/tild3135-6230-4232-b164-323163303937/8.png', 'small'],
-                    9: ['https://static.tildacdn.com/tild3237-3630-4466-b336-353037336532/9.png', 'small'],
+                    1: ['https://static.tildacdn.com/tild3333-6262-4365-b235-326138616433/1.png', 'small'],
+                    2: ['https://static.tildacdn.com/tild3232-6536-4061-b861-323539383832/2.png', 'small'],
+                    3: ['https://static.tildacdn.com/tild6636-3234-4665-b731-326163326663/3.png', 'small'],
+                    4: ['https://static.tildacdn.com/tild6362-6331-4932-b532-353063633962/4.png', 'small'],
+                    5: ['https://static.tildacdn.com/tild3364-6630-4764-b861-636330633139/5.png', 'small'],
+                    6: ['https://static.tildacdn.com/tild3334-6233-4639-a537-623033356663/6.png', 'small'],
+                    7: ['https://static.tildacdn.com/tild3463-6638-4839-a538-356563613830/7.png', 'small'],
+                    8: ['https://static.tildacdn.com/tild3639-3731-4739-a438-316536356338/8.png', 'small'],
+                    9: ['https://static.tildacdn.com/tild3932-3531-4033-a535-343131343863/9.png', 'small'],
                 }
             }
         },
@@ -1182,7 +1182,7 @@
             }
         },
         49: {
-            name: 'Юбилей Максим',
+            name: 'Maxim birthday party',
             organizator: 'Лусина',
             date: '18/05/24',
             team: '42 человека',
@@ -1387,13 +1387,13 @@
             time: '7 месяцев',
             type: 'свадьба',
             photos: {
-                mainCover: 'https://static.tildacdn.com/tild3831-3364-4532-b962-373263393266/or1.png',
+                mainCover: 'https://static.tildacdn.com/tild3636-6434-4537-a261-666232663363/or1.png',
                 isPhotoOrVideo: 'photo',
                 photoOrVideo: ['https://static.tildacdn.com/tild3261-6461-4335-a630-386438373534/or2.png', '', ''],
                 pagePhotos: {
-                    1: ['https://static.tildacdn.com/tild3336-3936-4165-a338-653338303365/1.png', 'small'],
-                    2: ['https://static.tildacdn.com/tild3736-3130-4934-b332-313230306563/2.png', 'small'],
-                    3: ['https://static.tildacdn.com/tild3339-3635-4664-b233-316561656430/3.png', 'small'],
+                    1: ['https://static.tildacdn.com/tild3237-6635-4637-b231-643464373237/1.png', 'small'],
+                    2: ['https://static.tildacdn.com/tild3530-3132-4236-b332-313565653434/2.png', 'small'],
+                    3: ['https://static.tildacdn.com/tild6638-6238-4936-a561-316132386538/3.png', 'small'],
                     4: ['https://static.tildacdn.com/tild6236-3330-4337-b761-616366366433/4.png', 'big'],
                     5: ['https://static.tildacdn.com/tild3234-3338-4462-b065-393830373133/5.png', 'small'],
                     6: ['https://static.tildacdn.com/tild3637-6135-4033-b035-326462396338/6.png', 'small'],
@@ -2079,6 +2079,7 @@
                 mainCover: 'https://static.tildacdn.com/tild6237-6537-4065-b131-626461333932/or1.png',
                 isPhotoOrVideo: 'video',
                 photoOrVideo: ['https://static.tildacdn.com/tild6235-3333-4130-b036-666637356233/or2.png', 'Вackstage (0:21)', "https://github.com/mrkrolik/videos-lulu/raw/refs/heads/main/AQNC_vKgHgWXsR6Cg3_dWQ27TngK7FxygTfQgE_rxlEdh3SABJfKTTFSwllNFuU.mp4"],
+                mobilePhoto: 'https://static.tildacdn.com/tild3865-3433-4264-b464-343162396633/_.png',
                 pagePhotos: {
                     1: ['https://static.tildacdn.com/tild3233-3439-4864-b436-643739316265/1.png', 'small'],
                     2: ['https://static.tildacdn.com/tild6534-6462-4063-b363-306466646664/2.png', 'small'],
@@ -2102,6 +2103,7 @@
                 mainCover: 'https://static.tildacdn.com/tild6165-3066-4531-a563-383633343533/or1.png',
                 isPhotoOrVideo: 'photo',
                 photoOrVideo: ['https://static.tildacdn.com/tild3461-3833-4739-a132-663035343536/or2.png', '', ""],
+                mobilePhoto: 'https://static.tildacdn.com/tild3539-3333-4238-b861-323631613336/_3_.png',
                 pagePhotos: {
                     1: ['https://static.tildacdn.com/tild3533-3239-4565-a636-633632613136/1.png', 'small'],
                     2: ['https://static.tildacdn.com/tild6466-3864-4233-a432-613730393064/2.png', 'small'],
@@ -2127,6 +2129,7 @@
                 mainCover: 'https://static.tildacdn.com/tild3665-3535-4430-a262-356137363339/or1.png',
                 isPhotoOrVideo: 'photo',
                 photoOrVideo: ['https://static.tildacdn.com/tild6130-3161-4032-a331-393037613966/or2.png', '', ""],
+                mobilePhoto: 'https://static.tildacdn.com/tild3034-6465-4837-b863-353839663338/photo.png',
                 pagePhotos: {
                     1: ['https://static.tildacdn.com/tild3536-6631-4537-a564-636237353864/1.png', 'small'],
                     2: ['https://static.tildacdn.com/tild3333-6661-4462-a334-343734613835/2.png', 'small'],
@@ -2150,6 +2153,7 @@
                 mainCover: 'https://static.tildacdn.com/tild6232-3731-4936-b831-623035313337/or1.png',
                 isPhotoOrVideo: 'video',
                 photoOrVideo: ['https://static.tildacdn.com/tild3665-3364-4164-b462-663538643930/or2.png', 'Вackstage (0:35)', "https://github.com/mrkrolik/videos-lulu/raw/refs/heads/main/2025-06-29%2022.00.04.mp4"],
+                mobilePhoto: 'https://static.tildacdn.com/tild6638-3430-4162-b466-616437366637/_.png',
                 pagePhotos: 'nophotos',
             }
         },
@@ -2261,7 +2265,7 @@
             time: '6 месяцев',
             type: 'свадьба',
             photos: {
-                mainCover: 'https://static.tildacdn.com/tild3638-3061-4038-b033-353663636534/or1.png',
+                mainCover: 'https://static.tildacdn.com/tild3539-3465-4137-b230-396662643832/or1.png',
                 isPhotoOrVideo: 'photo',
                 photoOrVideo: ['https://static.tildacdn.com/tild3136-3762-4735-b332-353735653835/or2.png', '', ""],
                 pagePhotos: {
@@ -2270,8 +2274,8 @@
                     3: ['https://static.tildacdn.com/tild3337-3533-4230-b535-643830356361/3.png', 'small'],
                     4: ['https://static.tildacdn.com/tild3934-3931-4135-a665-376165643566/4.png', 'big'],
                     5: ['https://static.tildacdn.com/tild3431-3061-4861-b331-373535366562/5.png', 'small'],
-                    6: ['https://static.tildacdn.com/tild3261-3265-4336-b566-316532323636/6.png', 'small'],
-                    7: ['https://static.tildacdn.com/tild3435-6263-4839-b930-656336313732/7.png', 'small'],
+                    6: ['https://static.tildacdn.com/tild6135-6338-4131-b437-613366343733/do.png', 'small'],
+                    7: ['https://static.tildacdn.com/tild3261-3265-4336-b566-316532323636/6.png', 'small'],
                     8: ['https://static.tildacdn.com/tild3164-6439-4930-a362-356233343733/8.png', 'small'],
                 }
             }
@@ -2313,6 +2317,7 @@
                 mainCover: 'https://static.tildacdn.com/tild3931-6537-4861-b736-353663313663/or1.png',
                 isPhotoOrVideo: 'photo',
                 photoOrVideo: ['https://static.tildacdn.com/tild6462-6637-4337-a363-653661363161/or2.png', '', ""],
+                mobilePhoto: 'https://static.tildacdn.com/tild3834-6536-4537-a164-313237396461/__.png',
                 pagePhotos: {
                     1: ['https://static.tildacdn.com/tild3438-3638-4561-a661-613562363233/1.png', 'small'],
                     2: ['https://static.tildacdn.com/tild3166-3535-4830-a236-306333316433/2.png', 'small'],
@@ -2435,6 +2440,7 @@
                 mainCover: 'https://static.tildacdn.com/tild3531-3935-4537-a434-343766656564/or1.png',
                 isPhotoOrVideo: 'photo',
                 photoOrVideo: ['https://static.tildacdn.com/tild6439-3066-4662-a165-663161323761/or2.png', '', ""],
+                mobilePhoto: 'https://static.tildacdn.com/tild3233-3066-4636-b534-366537376434/__.png',
                 pagePhotos: {
                     1: ['https://static.tildacdn.com/tild3334-3066-4565-a432-666630643034/1.png', 'small'],
                     2: ['https://static.tildacdn.com/tild6131-3533-4362-b430-613139653632/2.png', 'small'],
@@ -2860,6 +2866,78 @@
                     1: ['https://static.tildacdn.com/tild3466-6630-4534-b338-643330633835/1.png', 'small'],
                     2: ['https://static.tildacdn.com/tild3062-3535-4935-b935-373966323537/2.png', 'small'],
                     3: ['https://static.tildacdn.com/tild3134-3934-4666-b032-636233373335/3.png', 'small'],
+                }
+            }
+        },
+        117: {
+            name: 'Алиса & Владимир',
+            organizator: 'Злата',
+            date: '25/05/25',
+            team: '21 человек',
+            guests: '25 гостей',
+            time: '4 месяца',
+            type: 'свадьба',
+            photos: {
+                mainCover: 'https://static.tildacdn.com/tild3462-6539-4934-b339-396337643739/or1.png',
+                isPhotoOrVideo: 'photo',
+                photoOrVideo: ['https://static.tildacdn.com/tild6131-3464-4430-b138-353566336632/or2.png', '', ""],
+                pagePhotos: {
+                    1: ['https://static.tildacdn.com/tild3462-3962-4437-a235-336439343436/1.png', 'small'],
+                    2: ['https://static.tildacdn.com/tild3230-3465-4036-a563-636162326663/2.png', 'small'],
+                    3: ['https://static.tildacdn.com/tild3233-3433-4263-b665-643064353830/3.png', 'small'],
+                    4: ['https://static.tildacdn.com/tild3239-3438-4664-b266-656465326362/4.png', 'small'],
+                    5: ['https://static.tildacdn.com/tild3662-3061-4534-b564-306436613434/5.png', 'big'],
+                    6: ['https://static.tildacdn.com/tild3436-6233-4239-b934-623462623336/6.png', 'small'],
+                    7: ['https://static.tildacdn.com/tild3335-3938-4661-a662-613930306461/7.png', 'small'],
+                    8: ['https://static.tildacdn.com/tild3965-6336-4430-a139-343862636165/8.png', 'small'],
+                }
+            }
+        },
+        118: {
+            name: 'Александра & Андрей',
+            organizator: 'Злата',
+            date: '06/06/25',
+            team: '37 человек',
+            guests: '45 гостей',
+            time: '8 месяцев',
+            type: 'свадьба',
+            photos: {
+                mainCover: 'https://static.tildacdn.com/tild3235-6330-4939-b731-663866626262/or1.png',
+                isPhotoOrVideo: 'photo',
+                photoOrVideo: ['https://static.tildacdn.com/tild3133-6630-4032-a535-613762323761/or2.png', '', ""],
+                pagePhotos: {
+                    1: ['https://static.tildacdn.com/tild6339-6637-4561-b062-363836316436/1.png', 'small'],
+                    2: ['https://static.tildacdn.com/tild3735-3463-4562-b632-376437623565/2.png', 'small'],
+                    3: ['https://static.tildacdn.com/tild3535-6363-4464-b238-383062373333/3.png', 'small'],
+                    4: ['https://static.tildacdn.com/tild3631-6663-4161-a331-336563366231/4.png', 'small'],
+                    5: ['https://static.tildacdn.com/tild3533-6564-4662-a335-366361653934/5.png', 'small'],
+                    6: ['https://static.tildacdn.com/tild6231-3232-4034-b162-376432336565/6.png', 'small'],
+                    7: ['https://static.tildacdn.com/tild3230-3065-4137-a165-313964326235/7.png', 'small'],
+                    8: ['https://static.tildacdn.com/tild3963-6266-4061-b735-386333623235/8.png', 'big'],
+                }
+            }
+        },
+        119: {
+            name: 'Александра & Андрей',
+            organizator: 'Злата',
+            date: '06/06/25',
+            team: '37 человек',
+            guests: '45 гостей',
+            time: '8 месяцев',
+            type: 'свадьба',
+            photos: {
+                mainCover: 'https://static.tildacdn.com/tild3464-6464-4663-a464-356132656332/or1.png',
+                isPhotoOrVideo: 'photo',
+                photoOrVideo: ['https://static.tildacdn.com/tild6665-3636-4565-b236-613331653639/or2.png', '', ""],
+                pagePhotos: {
+                    1: ['https://static.tildacdn.com/tild3135-3935-4363-b963-326637626637/1.png', 'small'],
+                    2: ['https://static.tildacdn.com/tild3238-6636-4262-a135-626233643936/2.png', 'small'],
+                    3: ['https://static.tildacdn.com/tild3730-6132-4031-a131-663466633265/3.png', 'small'],
+                    4: ['https://static.tildacdn.com/tild3133-3132-4161-b237-336166336138/4.png', 'big'],
+                    5: ['https://static.tildacdn.com/tild3337-6438-4633-b934-316566376365/5.png', 'small'],
+                    6: ['https://static.tildacdn.com/tild3331-6538-4261-a438-353363613036/6.png', 'small'],
+                    7: ['https://static.tildacdn.com/tild3962-6230-4234-b630-616366393566/7.png', 'small'],
+                    8: ['https://static.tildacdn.com/tild3839-6363-4232-b832-323034333165/8.png', 'small'],
                 }
             }
         },
