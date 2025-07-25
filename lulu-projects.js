@@ -2575,31 +2575,6 @@
                 }
             }
         },
-        105: {
-            name: 'Дарья & Кирилл',
-            organizator: 'Лусина',
-            date: '26/06/21',
-            team: '42 человека',
-            guests: '67 гостей',
-            time: '5 месяцев',
-            type: 'свадьба',
-            photos: {
-                mainCover: 'https://static.tildacdn.com/tild6132-6332-4961-b464-616661376164/or1.png',
-                isPhotoOrVideo: 'photo',
-                photoOrVideo: ['https://static.tildacdn.com/tild6336-3730-4262-b039-303134343038/or2.png', '', ""],
-                pagePhotos: {
-                    1: ['https://static.tildacdn.com/tild3439-6539-4966-b536-376465333434/1.png', 'small'],
-                    2: ['https://static.tildacdn.com/tild6534-6664-4230-b161-653166383033/2.png', 'small'],
-                    3: ['https://static.tildacdn.com/tild3032-6533-4963-b264-343731373837/3.png', 'small'],
-                    4: ['https://static.tildacdn.com/tild6139-6663-4134-a366-663330643665/4.png', 'small'],
-                    5: ['https://static.tildacdn.com/tild6430-6637-4365-a536-393739646361/5.png', 'small'],
-                    6: ['https://static.tildacdn.com/tild3966-3764-4433-b534-363164646233/6.png', 'small'],
-                    7: ['https://static.tildacdn.com/tild3862-3437-4634-a639-323962663764/7.png', 'small'],
-                    8: ['https://static.tildacdn.com/tild6435-3432-4231-a337-363963323932/8.png', 'small'],
-                    9: ['https://static.tildacdn.com/tild3132-3930-4536-b231-326430643666/9.png', 'small'],
-                }
-            }
-        },
         106: {
             name: 'Рената & Егор',
             organizator: 'Лусина',
