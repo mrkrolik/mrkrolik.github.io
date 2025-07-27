@@ -777,14 +777,13 @@
                 photoOrVideo: ['https://static.tildacdn.com/tild3961-3434-4166-b233-356536646132/or2.png', '', ''],
                 mobilePhoto: 'https://static.tildacdn.com/tild6332-3636-4862-a330-393764323563/_.png',
                 pagePhotos: {
-                    1: ['https://static.tildacdn.com/tild6530-3063-4537-a536-323332376265/1.png', 'small'],
-                    2: ['https://static.tildacdn.com/tild3465-3466-4331-b337-646264393166/2.png', 'small'],
-                    3: ['https://static.tildacdn.com/tild6533-6232-4931-b731-356237386433/3.png', 'small'],
-                    4: ['https://static.tildacdn.com/tild6164-6636-4562-b736-626138653831/4.png', 'small'],
-                    5: ['https://static.tildacdn.com/tild3838-3833-4537-b464-613233626262/5.png', 'small'],
-                    6: ['https://static.tildacdn.com/tild3237-3761-4566-b033-663338646139/6.png', 'small'],
-                    7: ['https://static.tildacdn.com/tild6561-3562-4164-b663-323939363264/7.png', 'small'],
-                    8: ['https://static.tildacdn.com/tild3530-6539-4761-a361-643432386432/8.png', 'big'],
+                    1: ['https://static.tildacdn.com/tild6264-3438-4361-b662-393263616662/1.png', 'small'],
+                    2: ['https://static.tildacdn.com/tild3437-3666-4138-b235-333436343437/2.png', 'small'],
+                    3: ['https://static.tildacdn.com/tild3363-3438-4766-b435-633865613130/3.png', 'small'],
+                    4: ['https://static.tildacdn.com/tild3338-3036-4234-b539-366635666165/4.png', 'big'],
+                    5: ['https://static.tildacdn.com/tild3130-6238-4135-b430-306633666661/5.png', 'small'],
+                    6: ['https://static.tildacdn.com/tild3032-3438-4633-b966-643930623962/6.png', 'small'],
+                    7: ['https://static.tildacdn.com/tild3035-6636-4432-b965-616434646639/7.png', 'big'],
                 }
             }
         },
@@ -2080,10 +2079,6 @@
                     1: ['https://static.tildacdn.com/tild3233-3439-4864-b436-643739316265/1.png', 'small'],
                     2: ['https://static.tildacdn.com/tild6534-6462-4063-b363-306466646664/2.png', 'small'],
                     3: ['https://static.tildacdn.com/tild6132-3863-4565-b435-346133326161/3.png', 'small'],
-                    4: ['https://static.tildacdn.com/tild3236-6262-4963-b631-326637326262/4.png', 'small'],
-                    5: ['https://static.tildacdn.com/tild6130-3762-4761-a663-343034663032/5.png', 'big'],
-                    6: ['https://static.tildacdn.com/tild3438-3537-4366-b632-666631626439/6.png', 'big'],
-                    7: ['https://static.tildacdn.com/tild3336-3564-4138-b132-656134383866/7.png', 'small'],
                 }
             }
         },
