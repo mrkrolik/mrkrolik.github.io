@@ -1,4 +1,3 @@
-This XML file does not appear to have any style information associated with it. The document tree is shown below.
 <feed>
 <feed_version>2</feed_version>
 <object>
