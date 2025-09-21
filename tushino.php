@@ -1,13 +1,10 @@
 <?php
-// Ставим заголовок CORS
-header("Access-Control-Allow-Origin: *");
-// Если нужны POST/PUT/DELETE — добавляем:
-header("Access-Control-Allow-Methods: GET, POST, OPTIONS");
-// Если фронтенд шлёт кастомные заголовки:
-header("Access-Control-Allow-Headers: Content-Type, Authorization");
 
-// Дальше обычный вывод XML
-echo '<?xml version="1.0" encoding="UTF-8"?>';
+header("Access-Control-Allow-Origin: *");
+
+header("Access-Control-Allow-Methods: GET, POST, OPTIONS");
+
+header("Access-Control-Allow-Headers: Content-Type, Authorization");
 ?>
 <feed>
 <feed_version>2</feed_version>
