@@ -2988,6 +2988,81 @@
                 },
             }
         },
+
+        123: {
+            name: 'Злата & Данил',
+            organizator: 'Марина',
+            date: '28/05/25',
+            team: '32 человека',
+            guests: '84 гостя',
+            time: '6 месяцев',
+            type: 'свадьба',
+            photos: {
+                mainCover: 'https://static.tildacdn.com/tild3866-3739-4163-b565-343738363134/or1.png',
+                isPhotoOrVideo: 'photo',
+                photoOrVideo: ['https://static.tildacdn.com/tild6566-3631-4263-b032-633862366136/or2.png', '', ""],
+                pagePhotos: {
+                    1: ['https://static.tildacdn.com/tild3364-3531-4235-b037-346466366538/1.png', 'small'],
+                    2: ['https://static.tildacdn.com/tild6163-3462-4063-a233-303562396462/2.png', 'small'],
+                    3: ['https://static.tildacdn.com/tild3862-3331-4262-a433-623866636437/3.png', 'small'],
+                    4: ['https://static.tildacdn.com/tild3531-3834-4531-a231-366331616166/4.png', 'small'],
+                    5: ['https://static.tildacdn.com/tild3933-3135-4766-b965-613961323934/5.png', 'small'],
+                    6: ['https://static.tildacdn.com/tild6337-3162-4530-a335-623337333364/6.png', 'small'],
+                    7: ['https://static.tildacdn.com/tild6135-6132-4438-b265-323835303635/7.png', 'small'],
+                    8: ['https://static.tildacdn.com/tild3231-6261-4437-b733-303433303063/8.png', 'small'],
+                    9: ['https://static.tildacdn.com/tild3663-6138-4232-b466-376461366263/9.png', 'small'],
+                },
+            }
+        },
+
+        124: {
+            name: 'Корпоратив «Медлига»',
+            organizator: 'Марина',
+            date: '07/06/25',
+            team: '27 человек',
+            guests: '90 гостей',
+            time: '4 месяца',
+            type: 'корпоратив',
+            photos: {
+                mainCover: 'https://static.tildacdn.com/tild3537-6264-4664-b161-346663663533/or1.png',
+                isPhotoOrVideo: 'photo',
+                photoOrVideo: ['https://static.tildacdn.com/tild3866-3763-4035-b230-636331306430/or2.png', '', ""],
+                pagePhotos: {
+                    1: ['https://static.tildacdn.com/tild6634-3237-4666-a336-316263376364/1.png', 'small'],
+                    2: ['https://static.tildacdn.com/tild6333-6636-4463-b031-313137643237/2.png', 'big'],
+                    3: ['https://static.tildacdn.com/tild3432-3930-4635-b837-383035643634/3.png', 'small'],
+                    4: ['https://static.tildacdn.com/tild3331-3166-4433-b732-376562616661/4.png', 'small'],
+                    5: ['https://static.tildacdn.com/tild6538-3833-4432-b461-343737653563/5.png', 'small'],
+                    6: ['https://static.tildacdn.com/tild3736-3565-4162-a366-616432366331/6.png', 'small'],
+                    7: ['https://static.tildacdn.com/tild6433-3463-4639-b035-633136386138/7.png', 'big'],
+                },
+            }
+        },
+
+        125: {
+            name: 'Корпоратив «Уралресурс»',
+            organizator: 'Марина',
+            date: '08/06/25',
+            team: '34 человека',
+            guests: '70 гостей',
+            time: '5 месяцев',
+            type: 'корпоратив',
+            photos: {
+                mainCover: 'https://static.tildacdn.com/tild6663-6135-4366-b938-366461643339/or1.png',
+                isPhotoOrVideo: 'photo',
+                photoOrVideo: ['https://static.tildacdn.com/tild3465-6565-4433-a234-346434313662/or2.png', '', ""],
+                pagePhotos: {
+                    1: ['https://static.tildacdn.com/tild3463-6636-4138-a231-323432653238/1.png', 'small'],
+                    2: ['https://static.tildacdn.com/tild6463-3430-4365-a564-643962353439/2.png', 'big'],
+                    3: ['https://static.tildacdn.com/tild6364-6235-4539-b563-653031613235/3.png', 'small'],
+                    4: ['https://static.tildacdn.com/tild3961-3137-4431-a434-623161333163/4.png', 'small'],
+                    5: ['https://static.tildacdn.com/tild3239-3435-4035-b764-613163303036/5.png', 'small'],
+                    6: ['https://static.tildacdn.com/tild3035-3866-4138-a237-633732376661/6.png', 'small'],
+                    7: ['https://static.tildacdn.com/tild6334-3466-4035-a564-383432613930/7.png', 'big'],
+                },
+            }
+        },
         
     };
+
 
