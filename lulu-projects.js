@@ -3187,8 +3187,134 @@
                 },
             }
         },
+
+        131: {
+            name: 'Мария & Сергей',
+            organizator: 'Злата',
+            date: '20/06/25',
+            team: '43 человека',
+            guests: '54 гостя',
+            time: '7 месяцев',
+            type: 'свадьба',
+            photos: {
+                mainCover: 'https://static.tildacdn.com/tild3237-6235-4665-b762-336132636364/or1.png',
+                isPhotoOrVideo: 'photo',
+                photoOrVideo: ['https://static.tildacdn.com/tild3761-6232-4663-a633-363639336131/or2.png', '', ""],
+                pagePhotos: {
+                    1: ['https://static.tildacdn.com/tild3730-6639-4632-b236-326638653261/1.png', 'big'],
+                    2: ['https://static.tildacdn.com/tild6465-6137-4736-a130-336332663233/2.png', 'small'],
+                    3: ['https://static.tildacdn.com/tild3365-3661-4530-b932-346561383734/3.png', 'small'],
+                    4: ['https://static.tildacdn.com/tild3631-6433-4931-a332-613161616133/4.png', 'small'],
+                    5: ['https://static.tildacdn.com/tild3864-6361-4933-b630-316364383034/5.png', 'small'],
+                    6: ['https://static.tildacdn.com/tild3233-3535-4563-b233-653430643261/6.png', 'small'],
+                    7: ['https://static.tildacdn.com/tild3663-3933-4134-a438-633038636534/7.png', 'big'],
+                },
+            }
+        },
+
+        132: {
+            name: 'Вероника & Александр',
+            organizator: 'Злата',
+            date: '17/07/25',
+            team: '39 человек',
+            guests: '43 гостя',
+            time: '10 месяцев',
+            type: 'свадьба',
+            photos: {
+                mainCover: 'https://static.tildacdn.com/tild6536-6233-4239-a664-623262626363/or1.png',
+                isPhotoOrVideo: 'photo',
+                photoOrVideo: ['https://static.tildacdn.com/tild3032-6265-4938-b863-633865393539/or2.png', '', ""],
+                pagePhotos: {
+                    1: ['https://static.tildacdn.com/tild3363-3735-4366-a135-343335353834/1.png', 'small'],
+                    2: ['https://static.tildacdn.com/tild3035-3764-4230-b633-366166646361/2.png', 'small'],
+                    3: ['https://static.tildacdn.com/tild6637-6139-4330-b666-316133326539/3.png', 'small'],
+                    4: ['https://static.tildacdn.com/tild6339-3461-4539-b366-626131303036/4.png', 'small'],
+                    5: ['https://static.tildacdn.com/tild3864-3838-4365-b739-643764383037/5.png', 'small'],
+                    6: ['https://static.tildacdn.com/tild6338-3761-4561-b333-623933633563/6.png', 'small'],
+                    7: ['https://static.tildacdn.com/tild3532-3464-4663-b138-336465366638/7.png', 'small'],
+                    8: ['https://static.tildacdn.com/tild3766-6563-4963-b961-316137643931/8.png', 'small'],
+                    9: ['https://static.tildacdn.com/tild3338-6439-4331-a133-623935353163/9.png', 'small'],
+                },
+            }
+        },
+
+        133: {
+            name: 'Александра & Александр',
+            organizator: 'Злата',
+            date: '18/07/25',
+            team: '64 человека',
+            guests: '46 гостей',
+            time: '9 месяцев',
+            type: 'свадьба',
+            photos: {
+                mainCover: 'https://static.tildacdn.com/tild3466-6339-4732-b936-653562316135/or1.png',
+                isPhotoOrVideo: 'photo',
+                photoOrVideo: ['https://static.tildacdn.com/tild6362-3536-4962-b366-643761613863/or2.png', '', ""],
+                pagePhotos: {
+                    1: ['https://static.tildacdn.com/tild6535-3735-4465-b030-623430346133/1.png', 'small'],
+                    2: ['https://static.tildacdn.com/tild3232-3934-4336-a535-646664393732/2.png', 'small'],
+                    3: ['https://static.tildacdn.com/tild3264-6632-4831-b335-316666633939/3.png', 'small'],
+                    4: ['https://static.tildacdn.com/tild3234-3163-4330-a365-626363663739/4.png', 'small'],
+                    5: ['https://static.tildacdn.com/tild6538-6335-4337-a133-343238616635/5.png', 'small'],
+                    6: ['https://static.tildacdn.com/tild6132-3338-4732-b436-653464366664/6.png', 'small'],
+                    7: ['https://static.tildacdn.com/tild3362-3834-4366-b736-636137373335/7.png', 'small'],
+                    8: ['https://static.tildacdn.com/tild6565-6662-4532-b263-623266333133/8.png', 'small'],
+                    9: ['https://static.tildacdn.com/tild6633-6635-4132-b165-636134633339/9.png', 'small'],
+                },
+            }
+        },
+
+        134: {
+            name: 'Камерный свадебный ужин',
+            organizator: 'Злата',
+            date: '08/08/25',
+            team: '28 человек',
+            guests: '26 гостей',
+            time: '3 недели',
+            type: 'свадьба',
+            photos: {
+                mainCover: 'https://static.tildacdn.com/tild6339-3561-4531-b664-636264323965/or1.png',
+                isPhotoOrVideo: 'photo',
+                photoOrVideo: ['https://static.tildacdn.com/tild3938-6661-4564-a436-346136363834/or2.png', '', ""],
+                pagePhotos: {
+                    1: ['https://static.tildacdn.com/tild6163-6565-4331-b464-353336646538/1.png', 'big'],
+                    2: ['https://static.tildacdn.com/tild3135-3764-4166-b961-343534396238/2.png', 'small'],
+                    3: ['https://static.tildacdn.com/tild3965-3563-4338-b463-623333636437/3.png', 'small'],
+                    4: ['https://static.tildacdn.com/tild3338-6531-4439-a633-616336653466/4.png', 'small'],
+                    5: ['https://static.tildacdn.com/tild3338-6236-4531-b561-326661396436/5.png', 'small'],
+                    6: ['https://static.tildacdn.com/tild3133-6638-4431-b565-373536306531/6.png', 'small'],
+                    7: ['https://static.tildacdn.com/tild6463-3566-4762-b237-613864616133/7.png', 'small'],
+                    8: ['https://static.tildacdn.com/tild6536-6533-4632-b665-623963386132/8.png', 'small'],
+                },
+            }
+        },
+
+        135: {
+            name: 'Анастасия & Данил',
+            organizator: 'Злата',
+            date: '15/08/25',
+            team: '38 человек',
+            guests: '29 гостей',
+            time: '9 месяцев',
+            type: 'свадьба',
+            photos: {
+                mainCover: 'https://static.tildacdn.com/tild3662-6462-4038-b938-366636663066/or1.png',
+                isPhotoOrVideo: 'photo',
+                photoOrVideo: ['https://static.tildacdn.com/tild6366-3538-4833-b066-373238346534/or2.png', '', ""],
+                pagePhotos: {
+                    1: ['https://static.tildacdn.com/tild3439-6637-4832-a636-636462633536/1.png', 'big'],
+                    2: ['https://static.tildacdn.com/tild3361-6239-4236-b832-613235366537/2.png', 'small'],
+                    3: ['https://static.tildacdn.com/tild3433-3630-4563-a336-323031383064/3.png', 'small'],
+                    4: ['https://static.tildacdn.com/tild6434-6533-4162-b438-633166383866/4.png', 'small'],
+                    5: ['https://static.tildacdn.com/tild6437-3766-4761-b731-643334393661/5.png', 'small'],
+                    6: ['https://static.tildacdn.com/tild3538-6433-4264-b265-633536643338/6.png', 'small'],
+                    7: ['https://static.tildacdn.com/tild6162-6335-4233-b539-616137636639/7.png', 'big'],
+                },
+            }
+        },
         
     };
+
 
 
 
