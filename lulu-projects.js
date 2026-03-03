@@ -3062,7 +3062,85 @@
                 },
             }
         },
+
+        126: {
+            name: 'Яна & Евгений',
+            organizator: 'Марина',
+            date: '03/08/25',
+            team: '28 человек',
+            guests: '55 гостей',
+            time: '9 месяцев',
+            type: 'свадьба',
+            photos: {
+                mainCover: 'https://static.tildacdn.com/tild3064-3036-4531-b930-313630313133/or1.png',
+                isPhotoOrVideo: 'photo',
+                photoOrVideo: ['https://static.tildacdn.com/tild3633-3734-4234-b735-633135373961/or2.png', '', ""],
+                pagePhotos: {
+                    1: ['https://static.tildacdn.com/tild6263-6366-4530-b765-306630663562/1.png', 'small'],
+                    2: ['https://static.tildacdn.com/tild3761-6635-4066-b038-643661316432/2.png', 'small'],
+                    3: ['https://static.tildacdn.com/tild6333-3635-4465-b137-656564303737/3.png', 'small'],
+                    4: ['https://static.tildacdn.com/tild6462-3463-4761-b133-376137303130/4.png', 'small'],
+                    5: ['https://static.tildacdn.com/tild6136-6266-4534-b838-336535323133/5.png', 'small'],
+                    6: ['https://static.tildacdn.com/tild6438-3663-4561-a561-313838303932/6.png', 'small'],
+                    7: ['https://static.tildacdn.com/tild6537-3839-4333-a466-373332613165/7.png', 'small'],
+                    8: ['https://static.tildacdn.com/tild3532-6133-4036-b038-323665373363/8.png', 'small'],
+                    9: ['https://static.tildacdn.com/tild6465-3064-4864-a431-633965363231/9.png', 'small'],
+                },
+            }
+        },
+
+        127: {
+            name: 'Екатерина & Михаил',
+            organizator: 'Марина',
+            date: '09/08/25',
+            team: '18 человек',
+            guests: '54 гостя',
+            time: '11 месяцев',
+            type: 'свадьба',
+            photos: {
+                mainCover: 'https://static.tildacdn.com/tild3966-6463-4537-b038-663239383363/or1.png',
+                isPhotoOrVideo: 'photo',
+                photoOrVideo: ['https://static.tildacdn.com/tild6138-6663-4131-b138-653366393235/or2.png', '', ""],
+                pagePhotos: {
+                    1: ['https://static.tildacdn.com/tild3861-3137-4534-a465-613961663933/1.png', 'small'],
+                    2: ['https://static.tildacdn.com/tild3430-6264-4063-a237-613332333464/2.png', 'small'],
+                    3: ['https://static.tildacdn.com/tild3434-3536-4332-b632-376661666133/3.png', 'small'],
+                    4: ['https://static.tildacdn.com/tild6138-3365-4335-a663-333231636365/4.png', 'small'],
+                    5: ['https://static.tildacdn.com/tild6435-3839-4362-a432-313433353435/5.png', 'small'],
+                    6: ['https://static.tildacdn.com/tild6333-3065-4565-b834-656139363262/6.png', 'small'],
+                    7: ['https://static.tildacdn.com/tild6239-3765-4730-b064-646261656361/7.png', 'small'],
+                    8: ['https://static.tildacdn.com/tild3061-3961-4165-b038-303130383632/8.png', 'small'],
+                    9: ['https://static.tildacdn.com/tild3937-6361-4533-b036-343731353630/9.png', 'small'],
+                },
+            }
+        },
+
+        128: {
+            name: 'Александра & Владимир',
+            organizator: 'Марина',
+            date: '30/08/25',
+            team: '25 человек',
+            guests: '35 гостей',
+            time: '7 месяцев',
+            type: 'свадьба',
+            photos: {
+                mainCover: 'https://static.tildacdn.com/tild3532-3134-4166-b237-353638373836/or1.png',
+                isPhotoOrVideo: 'photo',
+                photoOrVideo: ['https://static.tildacdn.com/tild3336-3566-4266-a662-373938363533/or2.png', '', ""],
+                pagePhotos: {
+                    1: ['https://static.tildacdn.com/tild3733-6534-4132-b232-666337376433/1.png', 'big'],
+                    2: ['https://static.tildacdn.com/tild6264-3631-4533-a161-623636616135/2.png', 'small'],
+                    3: ['https://static.tildacdn.com/tild6564-3632-4637-b532-623336353362/3.png', 'small'],
+                    4: ['https://static.tildacdn.com/tild3962-6135-4330-a239-636438666431/4.png', 'small'],
+                    5: ['https://static.tildacdn.com/tild3637-3666-4233-a136-643238303864/5.png', 'small'],
+                    6: ['https://static.tildacdn.com/tild6161-6630-4537-b538-393032323566/6.png', 'small'],
+                    7: ['https://static.tildacdn.com/tild6362-6335-4230-a463-636434383561/7.png', 'small'],
+                    8: ['https://static.tildacdn.com/tild3163-3765-4333-b931-626138626231/8.png', 'small'],
+                },
+            }
+        },
         
     };
+
 
 
