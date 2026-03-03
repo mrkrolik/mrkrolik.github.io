@@ -3338,8 +3338,60 @@
                 },
             }
         },
+
+        137: {
+            name: 'Юлия & Максим',
+            organizator: 'Злата',
+            date: '05/09/25',
+            team: '60 человек',
+            guests: '59 гостей',
+            time: '5 месяцев',
+            type: 'свадьба',
+            photos: {
+                mainCover: 'https://static.tildacdn.com/tild6237-6536-4462-a137-626233663933/or1.png',
+                isPhotoOrVideo: 'photo',
+                photoOrVideo: ['https://static.tildacdn.com/tild3565-3731-4639-b133-373662396534/or2.png', '', ""],
+                pagePhotos: {
+                    1: ['https://static.tildacdn.com/tild3332-3262-4136-a437-333966623531/1.png', 'small'],
+                    2: ['https://static.tildacdn.com/tild6337-6138-4131-b462-393063353537/2.png', 'small'],
+                    3: ['https://static.tildacdn.com/tild3337-3965-4339-b461-653061393438/3.png', 'small'],
+                    4: ['https://static.tildacdn.com/tild3037-3235-4734-b535-643034323035/4.png', 'small'],
+                    5: ['https://static.tildacdn.com/tild6539-6366-4338-a431-613064323230/5.png', 'small'],
+                    6: ['https://static.tildacdn.com/tild3262-6563-4935-a132-356664316139/6.png', 'small'],
+                    7: ['https://static.tildacdn.com/tild3139-3762-4331-a637-336664303065/7.png', 'small'],
+                    8: ['https://static.tildacdn.com/tild6531-3738-4238-a436-356361346233/8.png', 'small'],
+                    9: ['https://static.tildacdn.com/tild6164-3037-4362-b437-643535376533/9.png', 'small'],
+                },
+            }
+        },
+
+        138: {
+            name: 'ДР Дарья & гендер пати',
+            organizator: 'Ксения',
+            date: '05/09/25',
+            team: '12 человек',
+            guests: '30 гостей',
+            time: '3 месяца',
+            type: 'частный',
+            photos: {
+                mainCover: 'https://static.tildacdn.com/tild6161-6261-4233-a364-376561313732/or1.png',
+                isPhotoOrVideo: 'photo',
+                photoOrVideo: ['https://static.tildacdn.com/tild6161-3332-4661-b634-643662616264/or2.png', '', ""],
+                pagePhotos: {
+                    1: ['https://static.tildacdn.com/tild3265-3533-4335-a537-323133393236/1.png', 'small'],
+                    2: ['https://static.tildacdn.com/tild3635-6236-4136-a464-633365663730/2.png', 'small'],
+                    3: ['https://static.tildacdn.com/tild6339-3533-4930-a266-303763343062/3.png', 'small'],
+                    4: ['https://static.tildacdn.com/tild3864-3437-4438-a162-306430666632/4.png', 'small'],
+                    5: ['https://static.tildacdn.com/tild3130-6332-4461-b065-316337626235/5.png', 'big'],
+                    6: ['https://static.tildacdn.com/tild6363-3537-4631-a539-306431313630/6.png', 'small'],
+                    7: ['https://static.tildacdn.com/tild6164-6238-4162-b737-333636616337/7.png', 'small'],
+                    8: ['https://static.tildacdn.com/tild6261-3662-4462-b930-623339666461/8.png', 'small'],
+                },
+            }
+        },
         
     };
+
 
 
 
