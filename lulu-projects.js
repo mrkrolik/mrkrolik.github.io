@@ -3312,8 +3312,35 @@
                 },
             }
         },
+
+        136: {
+            name: 'Arosha & LiClinic',
+            organizator: 'Злата',
+            date: '15/08/25',
+            team: '38 человек',
+            guests: '29 гостей',
+            time: '9 месяцев',
+            type: 'бренд',
+            photos: {
+                mainCover: 'https://static.tildacdn.com/tild6232-6432-4633-b437-316535616135/or1.png',
+                isPhotoOrVideo: 'video',
+                photoOrVideo: ['https://static.tildacdn.com/tild6233-3962-4466-b634-366136343561/or2.png', 'Вackstage (0:16)', "https://github.com/mrkrolik/videoassets/raw/refs/heads/main/-4547040726252276854.mp4"],
+                pagePhotos: {
+                    1: ['https://static.tildacdn.com/tild6164-3938-4430-b666-393732356138/1.png', 'small'],
+                    2: ['https://static.tildacdn.com/tild6233-3530-4231-a532-306538663065/2.png', 'small'],
+                    3: ['https://static.tildacdn.com/tild6430-3662-4239-b362-336232376430/3.png', 'small'],
+                    4: ['https://static.tildacdn.com/tild3835-3736-4266-b138-366630373364/4.png', 'small'],
+                    5: ['https://static.tildacdn.com/tild6130-3338-4166-a232-313830353364/5.png', 'small'],
+                    6: ['https://static.tildacdn.com/tild6665-6331-4638-a131-333763346161/6.png', 'small'],
+                    7: ['https://static.tildacdn.com/tild6565-3435-4137-a132-366133383537/7.png', 'small'],
+                    8: ['https://static.tildacdn.com/tild3536-3034-4335-b838-346665643332/8.png', 'small'],
+                    9: ['https://static.tildacdn.com/tild3137-6538-4638-a632-323839396531/9.png', 'small'],
+                },
+            }
+        },
         
     };
+
 
 
 
