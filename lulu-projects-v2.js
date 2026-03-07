@@ -763,7 +763,7 @@
                 }
             }
         },
-        32: {
+        /*32: {
             name: 'ТрансСтрой <br>Групп',
             organizator: 'Злата',
             date: '27/06/24',
@@ -786,7 +786,7 @@
                     7: ['https://static.tildacdn.com/tild3035-6636-4432-b965-616434646639/7.png', 'big'],
                 }
             }
-        },
+        },*/
         33: {
             name: 'Выпуск 2024 УГМУ',
             organizator: 'Злата',
@@ -2039,11 +2039,11 @@
         },
         84: {
             name: 'День рождения <br>Ева',
-            organizator: 'Влада',
-            date: '15/05/25',
-            team: '25 человек',
-            guests: '40 гостей',
-            time: '3 месяца',
+            organizator: 'Настя',
+            date: '16/05/25',
+            team: '12 человек',
+            guests: '25 гостей',
+            time: '4 месяца',
             type: 'частный',
             photos: {
                 mainCover: 'https://static.tildacdn.com/tild6437-3430-4937-a431-306361636335/or1.png',
