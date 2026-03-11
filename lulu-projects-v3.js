@@ -2895,7 +2895,7 @@
             team: '18 человек',
             guests: '60 гостей',
             time: '5 месяцев',
-            type: 'cвадьба',
+            type: 'свадьба',
             photos: {
                 mainCover: 'https://static.tildacdn.com/tild6432-3934-4436-b539-653265343431/p1.png',
                 isPhotoOrVideo: 'video',
@@ -3390,7 +3390,7 @@
             }
         },
 
-        139: {
+        /*139: {
             name: 'ДР Дарья & гендер пати',
             organizator: 'Ксения',
             date: '05/09/25',
@@ -3413,7 +3413,7 @@
                     8: ['https://static.tildacdn.com/tild6261-3662-4462-b930-623339666461/8.png', 'small'],
                 },
             }
-        },
+        },*/
 
         140: {
             name: 'София & Даниил',
@@ -3669,12 +3669,12 @@
         },
 
         150: {
-            name: 'Алина & Александр',
+            name: 'Анастасия & Артём',
             organizator: 'Анастасия',
-            date: '13/06/25',
-            team: '21 человек',
-            guests: '55 гостей',
-            time: '3 месяца',
+            date: '12/09/25',
+            team: '15 человек',
+            guests: '22 гостя',
+            time: '2 месяца',
             type: 'свадьба',
             photos: {
                 mainCover: 'https://static.tildacdn.com/tild6437-6561-4532-b634-323535336166/or1.png',
@@ -3720,7 +3720,7 @@
             }
         },
 
-        152: {
+        /*152: {
             name: 'Софья & Павел',
             organizator: 'Лусина',
             date: '11/07/25',
@@ -3744,7 +3744,7 @@
                     9: ['https://static.tildacdn.com/tild3362-3536-4465-b835-646530663864/9.png', 'small'],
                 },
             }
-        },
+        },*/
 
         153: {
             name: 'Диана & Дмитрий',
