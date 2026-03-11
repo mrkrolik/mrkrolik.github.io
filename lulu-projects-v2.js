@@ -3881,7 +3881,7 @@
             photos: {
                 mainCover: 'https://static.tildacdn.com/tild3235-3139-4635-b836-373736383030/or1.png',
                 isPhotoOrVideo: 'video',
-                photoOrVideo: ['https://static.tildacdn.com/tild6639-3230-4735-b439-303131393532/or2.png', 'Вackstage (03:01)', ""],
+                photoOrVideo: ['https://static.tildacdn.com/tild6639-3230-4735-b439-303131393532/or2.png', 'Вackstage (03:01)', "https://kinescope.io/embed/p9phAA9kiuKmYFohpFwVLC"],
                 pagePhotos: {
                     1: ['https://static.tildacdn.com/tild6661-3235-4238-b938-633931323637/1.png', 'small'],
                     2: ['https://static.tildacdn.com/tild6437-6434-4334-b262-393935656437/2.png', 'small'],
