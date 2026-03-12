@@ -3001,6 +3001,7 @@
                 mainCover: 'https://static.tildacdn.com/tild3866-3739-4163-b565-343738363134/or1.png',
                 isPhotoOrVideo: 'photo',
                 photoOrVideo: ['https://static.tildacdn.com/tild6566-3631-4263-b032-633862366136/or2.png', '', ""],
+                mobilePhoto: 'https://static.tildacdn.com/tild6332-6137-4266-b864-396132383839/01.png',
                 pagePhotos: {
                     1: ['https://static.tildacdn.com/tild3364-3531-4235-b037-346466366538/1.png', 'small'],
                     2: ['https://static.tildacdn.com/tild6163-3462-4063-a233-303562396462/2.png', 'small'],
@@ -3027,6 +3028,7 @@
                 mainCover: 'https://static.tildacdn.com/tild3537-6264-4664-b161-346663663533/or1.png',
                 isPhotoOrVideo: 'photo',
                 photoOrVideo: ['https://static.tildacdn.com/tild3866-3763-4035-b230-636331306430/or2.png', '', ""],
+                mobilePhoto: 'https://static.tildacdn.com/tild3432-3830-4739-b066-613865663064/02.png',
                 pagePhotos: {
                     1: ['https://static.tildacdn.com/tild6634-3237-4666-a336-316263376364/1.png', 'small'],
                     2: ['https://static.tildacdn.com/tild6333-6636-4463-b031-313137643237/2.png', 'big'],
@@ -3075,6 +3077,7 @@
                 mainCover: 'https://static.tildacdn.com/tild3064-3036-4531-b930-313630313133/or1.png',
                 isPhotoOrVideo: 'photo',
                 photoOrVideo: ['https://static.tildacdn.com/tild3633-3734-4234-b735-633135373961/or2.png', '', ""],
+                mobilePhoto: 'https://static.tildacdn.com/tild3064-3336-4164-a361-666662363334/04.png',
                 pagePhotos: {
                     1: ['https://static.tildacdn.com/tild6263-6366-4530-b765-306630663562/1.png', 'small'],
                     2: ['https://static.tildacdn.com/tild3761-6635-4066-b038-643661316432/2.png', 'small'],
@@ -3151,6 +3154,7 @@
                 mainCover: 'https://static.tildacdn.com/tild3264-3430-4131-a632-336161306332/or1.png',
                 isPhotoOrVideo: 'photo',
                 photoOrVideo: ['https://static.tildacdn.com/tild6132-3766-4937-b261-373634316462/or2.png', '', ""],
+                mobilePhoto: 'https://static.tildacdn.com/tild6162-3663-4263-a130-646236353433/07.png',
                 pagePhotos: {
                     1: ['https://static.tildacdn.com/tild3931-3765-4132-b231-643065363930/1.png', 'big'],
                     2: ['https://static.tildacdn.com/tild6137-6330-4266-a431-646434343663/2.png', 'small'],
@@ -3175,6 +3179,7 @@
                 mainCover: 'https://static.tildacdn.com/tild6232-3431-4738-a136-616630663035/or1.png',
                 isPhotoOrVideo: 'photo',
                 photoOrVideo: ['https://static.tildacdn.com/tild6162-3834-4733-b061-313936333930/or2.png', '', ""],
+                mobilePhoto: 'https://static.tildacdn.com/tild3430-3537-4163-a362-306661336136/08.png',
                 pagePhotos: {
                     1: ['https://static.tildacdn.com/tild3865-6363-4862-a630-666536346339/1.png', 'small'],
                     2: ['https://static.tildacdn.com/tild3764-3139-4030-b638-616461643733/2.png', 'small'],
@@ -3200,6 +3205,7 @@
                 mainCover: 'https://static.tildacdn.com/tild3237-6235-4665-b762-336132636364/or1.png',
                 isPhotoOrVideo: 'photo',
                 photoOrVideo: ['https://static.tildacdn.com/tild3761-6232-4663-a633-363639336131/or2.png', '', ""],
+                mobilePhoto: 'https://static.tildacdn.com/tild6532-3239-4235-a433-313261303537/01.png',
                 pagePhotos: {
                     1: ['https://static.tildacdn.com/tild3730-6639-4632-b236-326638653261/1.png', 'big'],
                     2: ['https://static.tildacdn.com/tild6465-6137-4736-a130-336332663233/2.png', 'small'],
@@ -3224,6 +3230,7 @@
                 mainCover: 'https://static.tildacdn.com/tild6536-6233-4239-a664-623262626363/or1.png',
                 isPhotoOrVideo: 'photo',
                 photoOrVideo: ['https://static.tildacdn.com/tild3032-6265-4938-b863-633865393539/or2.png', '', ""],
+                mobilePhoto: 'https://static.tildacdn.com/tild3462-3032-4535-b161-353336393366/02.png',
                 pagePhotos: {
                     1: ['https://static.tildacdn.com/tild3363-3735-4366-a135-343335353834/1.png', 'small'],
                     2: ['https://static.tildacdn.com/tild3035-3764-4230-b633-366166646361/2.png', 'small'],
@@ -3250,6 +3257,7 @@
                 mainCover: 'https://static.tildacdn.com/tild3466-6339-4732-b936-653562316135/or1.png',
                 isPhotoOrVideo: 'photo',
                 photoOrVideo: ['https://static.tildacdn.com/tild6362-3536-4962-b366-643761613863/or2.png', '', ""],
+                mobilePhoto: 'https://static.tildacdn.com/tild6335-3639-4664-b730-343734386336/06.png',
                 pagePhotos: {
                     1: ['https://static.tildacdn.com/tild6535-3735-4465-b030-623430346133/1.png', 'small'],
                     2: ['https://static.tildacdn.com/tild3232-3934-4336-a535-646664393732/2.png', 'small'],
@@ -3325,6 +3333,7 @@
                 mainCover: 'https://static.tildacdn.com/tild6232-6432-4633-b437-316535616135/or1.png',
                 isPhotoOrVideo: 'video',
                 photoOrVideo: ['https://static.tildacdn.com/tild6233-3962-4466-b634-366136343561/or2.png', 'Вackstage (0:16)', "https://github.com/mrkrolik/videoassets/raw/refs/heads/main/-4547040726252276854.mp4"],
+                mobilePhoto: 'https://static.tildacdn.com/tild3038-3035-4465-a538-666462363735/03.png',
                 pagePhotos: {
                     1: ['https://static.tildacdn.com/tild6164-3938-4430-b666-393732356138/1.png', 'small'],
                     2: ['https://static.tildacdn.com/tild6233-3530-4231-a532-306538663065/2.png', 'small'],
@@ -3377,6 +3386,7 @@
                 mainCover: 'https://static.tildacdn.com/tild6161-6261-4233-a364-376561313732/or1.png',
                 isPhotoOrVideo: 'photo',
                 photoOrVideo: ['https://static.tildacdn.com/tild6161-3332-4661-b634-643662616264/or2.png', '', ""],
+                mobilePhoto: 'https://static.tildacdn.com/tild3362-6132-4339-b938-653836383131/01.png',
                 pagePhotos: {
                     1: ['https://static.tildacdn.com/tild3265-3533-4335-a537-323133393236/1.png', 'small'],
                     2: ['https://static.tildacdn.com/tild3635-6236-4136-a464-633365663730/2.png', 'small'],
@@ -3427,6 +3437,7 @@
                 mainCover: 'https://static.tildacdn.com/tild3962-6430-4837-b435-326433393933/or1.png',
                 isPhotoOrVideo: 'photo',
                 photoOrVideo: ['https://static.tildacdn.com/tild3632-6633-4338-b464-623339383430/or2.png', '', ""],
+                mobilePhoto: 'https://static.tildacdn.com/tild3133-6266-4363-b266-633139346361/01.png',
                 pagePhotos: {
                     1: ['https://static.tildacdn.com/tild3330-3737-4632-b837-636337313866/1.png', 'small'],
                     2: ['https://static.tildacdn.com/tild3664-3162-4636-b862-386230623739/2.png', 'small'],
@@ -3453,6 +3464,7 @@
                 mainCover: 'https://static.tildacdn.com/tild6335-3765-4962-b738-333263623263/or1.png',
                 isPhotoOrVideo: 'photo',
                 photoOrVideo: ['https://static.tildacdn.com/tild3761-6665-4134-b263-376165643831/or2.png', '', ""],
+                mobilePhoto: 'https://static.tildacdn.com/tild6565-3134-4630-b866-656234333362/02.png',
                 pagePhotos: {
                     1: ['https://static.tildacdn.com/tild3965-6664-4633-b034-386338363332/1.png', 'small'],
                     2: ['https://static.tildacdn.com/tild6165-3730-4731-b464-623835383034/2.png', 'small'],
@@ -3475,11 +3487,11 @@
             time: '1,5 месяца',
             type: 'частный',
             photos: {
-                mainCover: 'https://static.tildacdn.com/tild3335-3934-4862-a635-313662333661/or1.png',
+                mainCover: 'https://static.tildacdn.com/tild3334-3964-4364-b637-376533396161/Rectangle_163.png',
                 isPhotoOrVideo: 'photo',
                 photoOrVideo: ['https://static.tildacdn.com/tild3532-3065-4062-b766-353663373139/or2.png', '', ""],
                 pagePhotos: {
-                    1: ['https://static.tildacdn.com/tild3530-3231-4864-b439-303130353530/1.png', 'small'],
+                    1: ['https://static.tildacdn.com/tild3332-6439-4233-b535-306462633437/image.png', 'small'],
                     2: ['https://static.tildacdn.com/tild6464-3066-4563-b637-303831636366/2.png', 'small'],
                     3: ['https://static.tildacdn.com/tild3137-6661-4236-a135-323236306237/3.png', 'small'],
                     4: ['https://static.tildacdn.com/tild6264-3563-4065-b164-396561663832/4.png', 'small'],
@@ -3503,6 +3515,7 @@
                 mainCover: 'https://static.tildacdn.com/tild3465-3034-4138-b763-303839383738/or1.png',
                 isPhotoOrVideo: 'photo',
                 photoOrVideo: ['https://static.tildacdn.com/tild3635-6363-4133-a634-636330643933/or2.png', '', ""],
+                mobilePhoto: 'https://static.tildacdn.com/tild6234-3337-4563-a263-346133636335/04.png',
                 pagePhotos: {
                     1: ['https://static.tildacdn.com/tild3633-3166-4337-b734-663166663831/1.png', 'small'],
                     2: ['https://static.tildacdn.com/tild6335-6265-4630-a634-326564653665/2.png', 'small'],
@@ -3528,6 +3541,7 @@
                 mainCover: 'https://static.tildacdn.com/tild3031-3834-4233-a535-386434396634/or1.png',
                 isPhotoOrVideo: 'photo',
                 photoOrVideo: ['https://static.tildacdn.com/tild6163-3830-4233-b664-366337613566/or2.png', '', ""],
+                mobilePhoto: 'https://static.tildacdn.com/tild6661-3334-4233-b761-396165333565/05.png',
                 pagePhotos: {
                     1: ['https://static.tildacdn.com/tild3736-6662-4437-b532-636663636234/1.png', 'small'],
                     2: ['https://static.tildacdn.com/tild3032-6330-4137-a231-373132393739/2.png', 'small'],
@@ -3579,6 +3593,7 @@
                 mainCover: 'https://static.tildacdn.com/tild3866-6163-4662-b730-636465633862/or1.png',
                 isPhotoOrVideo: 'photo',
                 photoOrVideo: ['https://static.tildacdn.com/tild3035-3930-4163-a363-653133646431/or2.png', '', ""],
+                mobilePhoto: 'https://static.tildacdn.com/tild6133-3636-4533-a161-373532633535/07.png',
                 pagePhotos: {
                     1: ['https://static.tildacdn.com/tild3236-3863-4636-b736-313236383739/1.png', 'small'],
                     2: ['https://static.tildacdn.com/tild3236-3531-4964-b864-616564383834/2.png', 'small'],
@@ -3604,6 +3619,7 @@
                 mainCover: 'https://static.tildacdn.com/tild6662-6464-4764-b765-626438363531/or1.png',
                 isPhotoOrVideo: 'photo',
                 photoOrVideo: ['https://static.tildacdn.com/tild3030-3965-4263-b566-396135356632/or2.png', '', ""],
+                mobilePhoto: 'https://static.tildacdn.com/tild3265-6337-4631-b935-623439383366/08.png',
                 pagePhotos: {
                     1: ['https://static.tildacdn.com/tild3632-6564-4863-b439-663966383937/1.png', 'small'],
                     2: ['https://static.tildacdn.com/tild6431-6266-4566-b464-623063633734/2.png', 'small'],
@@ -3630,6 +3646,7 @@
                 mainCover: 'https://static.tildacdn.com/tild6338-6639-4866-b366-323362643830/or1.png',
                 isPhotoOrVideo: 'video',
                 photoOrVideo: ['https://static.tildacdn.com/tild6633-6435-4837-b733-343466623331/or2.png', 'Вackstage (0:13)', "https://github.com/mrkrolik/videos-lulu/raw/refs/heads/main/copy_EAAC3DFC-40C9-42E2-8411-84B974625269.MOV"],
+                mobilePhoto: 'https://static.tildacdn.com/tild3939-6135-4630-a262-353061663261/2.png',
                 pagePhotos: {
                     1: ['https://static.tildacdn.com/tild3665-3538-4263-b532-366365613965/1.png', 'small'],
                     2: ['https://static.tildacdn.com/tild3463-3764-4736-a534-653164663932/2.png', 'big'],
@@ -3680,6 +3697,7 @@
                 mainCover: 'https://static.tildacdn.com/tild6437-6561-4532-b634-323535336166/or1.png',
                 isPhotoOrVideo: 'photo',
                 photoOrVideo: ['https://static.tildacdn.com/tild6431-3330-4666-b838-306566353365/or2.png', '', ""],
+                mobilePhoto: 'https://static.tildacdn.com/tild6465-3132-4339-b564-366562636566/1.png',
                 pagePhotos: {
                     1: ['https://static.tildacdn.com/tild3961-3466-4261-a437-303034396235/1.png', 'small'],
                     2: ['https://static.tildacdn.com/tild3265-3561-4233-a264-353031353032/2.png', 'small'],
@@ -3806,12 +3824,12 @@
             time: '8 месяцев',
             type: 'частный',
             photos: {
-                mainCover: 'https://static.tildacdn.com/tild3834-6365-4566-b732-626136306130/or1.png',
+                mainCover: 'https://static.tildacdn.com/tild3730-6161-4666-b665-323337666132/Rectangle_163.png',
                 isPhotoOrVideo: 'photo',
                 photoOrVideo: ['https://static.tildacdn.com/tild6364-3437-4638-a138-396663663335/or2.png', '', ""],
                 pagePhotos: {
                     1: ['https://static.tildacdn.com/tild6236-3235-4639-b265-663431373139/1.png', 'big'],
-                    2: ['https://static.tildacdn.com/tild6664-6532-4237-b161-623639353061/2.png', 'small'],
+                    2: ['https://static.tildacdn.com/tild3332-6231-4336-b132-643437636630/__2025-06-30__181009.png', 'small'],
                     3: ['https://static.tildacdn.com/tild3930-6664-4634-b932-346236383032/3.png', 'small'],
                     4: ['https://static.tildacdn.com/tild3531-6161-4263-a335-653134303339/4.png', 'small'],
                     5: ['https://static.tildacdn.com/tild3030-3935-4061-b039-306331376530/5.png', 'small'],
@@ -3830,13 +3848,13 @@
             time: '9 месяцев',
             type: 'частный',
             photos: {
-                mainCover: 'https://static.tildacdn.com/tild6265-6261-4038-b437-306233666164/or1.png',
+                mainCover: 'https://static.tildacdn.com/tild6463-6632-4235-a431-353135613566/Rectangle_163.png',
                 isPhotoOrVideo: 'photo',
                 photoOrVideo: ['https://static.tildacdn.com/tild3866-6163-4761-a532-653337626633/or2.png', '', ""],
                 pagePhotos: {
                     1: ['https://static.tildacdn.com/tild3733-3336-4166-b462-666630613463/1.png', 'small'],
                     2: ['https://static.tildacdn.com/tild3735-6164-4535-b631-383962326232/2.png', 'big'],
-                    3: ['https://static.tildacdn.com/tild3234-6630-4930-b431-333333356631/3.png', 'small'],
+                    3: ['https://static.tildacdn.com/tild3865-6336-4930-b665-666434643434/image.png', 'small'],
                     4: ['https://static.tildacdn.com/tild6561-3133-4431-b439-303036623130/4.png', 'small'],
                     5: ['https://static.tildacdn.com/tild3937-3161-4164-b561-333964326363/5.png', 'small'],
                     6: ['https://static.tildacdn.com/tild3266-6165-4364-b233-643664666139/6.png', 'small'],
