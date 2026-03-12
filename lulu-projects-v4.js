@@ -2920,7 +2920,7 @@
             team: '13 человек',
             guests: '55 гостей',
             time: '6 месяцев',
-            type: 'cвадьба',
+            type: 'свадьба',
             photos: {
                 mainCover: 'https://static.tildacdn.com/tild3237-3464-4335-a536-363662663363/or1.png',
                 isPhotoOrVideo: 'video',
